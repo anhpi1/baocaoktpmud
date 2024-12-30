@@ -104,68 +104,64 @@
 \input{Abstract} % Tóm tắt đồ án 
 
 \pagenumbering{arabic} % Đánh số thứ tự 1,2,3...
-\section*{CHƯƠNG 1.  GIỚI THIỆU ĐỀ TÀI}
-\addcontentsline{toc}{section}{\numberline{}CHƯƠNG 1.  GIỚI THIỆU ĐỀ TÀI}
-\setcounter{section}{1}
-\setcounter{figure}{0}
-\setcounter{table}{0}
-\subsection{Tổng quan chức năng}
-phần này vẽ sơ đồ với mô tả sơ qua sơ đồ có những cái gì
+\section{Mở đầu}
+\subsection{Mục đích}
+Giới thiệu vấn đề cần giải quyết. Lý do lựa chọn phần mềm và phạm vi ứng dụng.
+
+\subsection{Phạm vi báo cáo}
+Mô tả ngắn gọn nội dung của báo cáo.
+
+\section{Phân tích yêu cầu}
+\subsection{Yêu cầu chức năng}
+Liệt kê các chức năng chính mà hệ thống cần đáp ứng.
+\subsubsection{Tổng quan}
+\subsubsection{Cấu trúc mô tả yêu cầu chức năng}
+Mỗi yêu cầu chức năng có thể bao gồm:
+\begin{itemize}
+    \item Tên yêu cầu
+    \item Mô tả chi tiết
+    \item Đầu vào
+    \item Đầu ra
+    \item Người dùng liên quan
+\end{itemize}
+
+\subsection{Yêu cầu phi chức năng}
+Độ bảo mật, hiệu suất, tính khả dụng, v.v.
+
+\section{Mô hình hóa hệ thống}
+\subsection{Sơ đồ ERD (Entity-Relationship Diagram)}
+Mô tả các thực thể, thuộc tính và quan hệ giữa chúng.  
 
 
-\newpage
-
-\section*{CHƯƠNG 2.  PHÂN TÍCH YÊU CẦU}
-\addcontentsline{toc}{section}{\numberline{}CHƯƠNG 2.  PHÂN TÍCH YÊU CẦU}
-\setcounter{section}{2}
-\setcounter{figure}{0}
-\setcounter{table}{0}
-\subsection{Đặc tả chức năng}
-Phần này em sẽ đặc tả các chức năng của hệ thống. Bảng \ref{bang_roles_functions} mô tả các nhóm chức năng chính của hệ thống
-
-\begin{table}[H]
-    \centering
-    \caption[Danh sách vai trò và chức năng]{\bfseries\fontsize{12pt}{0pt}\selectfont Danh sách vai trò và chức năng}
-    \begin{tabularx}{0.85\textwidth}{
-    | >{\centering\arraybackslash}p{3cm}
-    | >{\arraybackslash}X|
-    }
-    \hline
-    \bfseries Tên & \bfseries Mô tả \\\hline
-    admin & Người quản trị hệ thống với quyền cao nhất, có thể quản lý người dùng, phân quyền, và các chức năng hệ thống khác. \\\hline
-    user & Người dùng thông thường có quyền truy cập và thao tác các chức năng cơ bản. \\\hline
-    cơ sở & Đơn vị hành chính như huyện, xã có vai trò quản lý các danh mục hành chính. \\\hline
-    lịch sử & Chức năng theo dõi và quản lý lịch sử truy cập và tác động hệ thống. \\\hline
-    báo cáo & Chức năng tạo các báo cáo thống kê và tổng hợp dữ liệu. \\\hline
-    \end{tabularx}
-    \label{bang_roles_functions}
-\end{table}
-
-\subsubsection{Đặc tả nhóm chức năng admin}
+\subsection{Sơ đồ EERD (Enhanced Entity-Relationship Diagram)}
+Thêm các yếu tố nâng cao như kế thừa (inheritance), tập thực thể con, v.v.  
 
 
+\subsection{Sơ đồ FHD (Functional Hierarchy Diagram)}
+Trình bày phân cấp các chức năng của hệ thống.  
 
 
+\section{Thiết kế hệ thống}
+\subsection{Thiết kế cơ sở dữ liệu}
+Mô tả bảng, khóa chính, khóa ngoại, chỉ mục.  
+Cách ánh xạ từ sơ đồ ERD/EERD thành cơ sở dữ liệu thực tế.
 
+\subsection{Thiết kế giao diện}
+Phác thảo giao diện chính của hệ thống. Định hướng trải nghiệm người dùng.
 
+\subsection{Thiết kế luồng hoạt động}
+Mô tả các luồng dữ liệu và xử lý thông qua sơ đồ luồng dữ liệu (DFD).
 
+\section{Thực hiện và triển khai}
+\subsection{Công nghệ và công cụ sử dụng}
+Liệt kê ngôn ngữ lập trình, framework, công cụ thiết kế.
 
+\subsection{Triển khai hệ thống}
+Mô tả môi trường triển khai, cấu hình yêu cầu.
 
+\subsection{Thử nghiệm hệ thống}
+Phương pháp thử nghiệm, các trường hợp kiểm thử (test case).
 
-\newpage
-\section*{CHƯƠNG 3. CÔNG NGHỆ SỬ DỤNG}
-\addcontentsline{toc}{section}{\numberline{}CHƯƠNG 3. THỰC NGHIỆM VÀ ĐÁNH GIÁ}
-\setcounter{section}{3}
-\setcounter{subsection}{0}
-\setcounter{figure}{0}
-\setcounter{table}{0}
-
-\newpage
-\section*{CHƯƠNG 4. THỰC NGHIỆM VÀ ĐÁNH GIÁ}
-\addcontentsline{toc}{section}{\numberline{}CHƯƠNG 4. THỰC NGHIỆM VÀ ĐÁNH GIÁ}
-\setcounter{section}{4}
-\setcounter{figure}{0}
-\setcounter{table}{0}
 
 \newpage
 \section*{KẾT LUẬN}

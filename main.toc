@@ -3,16 +3,29 @@
 \contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC HÌNH VẼ}{ii}{section*.8}%
 \contentsline {section}{\hbox to\@tempdima {\hfil } DANH MỤC BẢNG BIỂU}{iii}{section*.9}%
 \contentsline {section}{\hbox to\@tempdima {\hfil }TÓM TẮT ĐỒ ÁN}{iv}{section*.10}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 1. GIỚI THIỆU ĐỀ TÀI}{1}{section*.10}%
-\contentsline {subsection}{\numberline {1.1}Tổng quan chức năng}{1}{subsection.1.1}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 2. PHÂN TÍCH YÊU CẦU}{2}{subsection.1.1}%
-\contentsline {subsection}{\numberline {2.2}Đặc tả chức năng}{2}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Đặc tả nhóm chức năng admin}{2}{subsubsection.2.2.1}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 3. THỰC NGHIỆM VÀ ĐÁNH GIÁ}{3}{subsubsection.2.2.1}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 4. THỰC NGHIỆM VÀ ĐÁNH GIÁ}{4}{subsubsection.2.2.1}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }KẾT LUẬN}{5}{section*.12}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }Kết luận chung}{5}{section*.13}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }Hướng phát triển}{5}{section*.14}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }Kiến nghị và đề xuất}{5}{section*.15}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }TÀI LIỆU THAM KHẢO}{6}{section*.16}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } PHỤ LỤC}{7}{section*.17}%
+\contentsline {section}{\numberline {1}Mở đầu}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Mục đích}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Phạm vi báo cáo}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Phân tích yêu cầu}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Yêu cầu chức năng}{1}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Tổng quan}{1}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Cấu trúc mô tả yêu cầu chức năng}{1}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Yêu cầu phi chức năng}{1}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Mô hình hóa hệ thống}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Sơ đồ ERD (Entity-Relationship Diagram)}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Sơ đồ EERD (Enhanced Entity-Relationship Diagram)}{1}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Sơ đồ FHD (Functional Hierarchy Diagram)}{2}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Thiết kế hệ thống}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Thiết kế cơ sở dữ liệu}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Thiết kế giao diện}{2}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Thiết kế luồng hoạt động}{2}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Thực hiện và triển khai}{2}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Công nghệ và công cụ sử dụng}{2}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Triển khai hệ thống}{2}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Thử nghiệm hệ thống}{2}{subsection.5.3}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }KẾT LUẬN}{3}{section*.11}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Kết luận chung}{3}{section*.12}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Hướng phát triển}{3}{section*.13}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Kiến nghị và đề xuất}{3}{section*.14}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }TÀI LIỆU THAM KHẢO}{4}{section*.15}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } PHỤ LỤC}{5}{section*.16}%

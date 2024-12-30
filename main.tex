@@ -111,10 +111,48 @@
 \setcounter{subsection}{0}
 \setcounter{figure}{0}
 \setcounter{table}{0}
-\subsection{Mục đích}
-Giới thiệu vấn đề cần giải quyết. Lý do lựa chọn phần mềm và phạm vi ứng dụng.
+\subsection{Giới thiệu chung}
+Phần mềm quản lý cơ sở dữ liệu về công trình, 
+hạ tầng thủy lợi là công cụ quan trọng giúp cải thiện hiệu 
+quả quản lý và đảm bảo tính bền vững trong vận hành. 
+Với kiến trúc MVC rõ ràng và linh hoạt, hệ thống dễ dàng bảo trì, 
+mở rộng và đáp ứng tốt các nhu cầu quản lý hiện đại.
 
-\subsection{Phạm vi báo cáo}
+Phần mềm đóng vai trò quan trọng trong việc hỗ trợ ra quyết 
+định bằng cách cung cấp dữ liệu chi tiết và đầy đủ về các công 
+trình thủy lợi, giúp cơ quan chức năng dễ dàng hoạch định bảo trì 
+và quy hoạch. Hệ thống tự động hóa quá trình tạo báo cáo và biểu đồ, 
+giúp giảm thiểu sai sót và tăng tốc độ xử lý. 
+Ngoài ra, phần mềm đảm bảo tính nhất quán và độ chính xác cao 
+trong quản lý dữ liệu, giảm nguy cơ mất mát do sai sót con người 
+và giúp tối ưu hóa tài nguyên vận hành.
+
+Hệ thống được xây dựng với kiến trúc MVC, 
+trong đó Model quản lý dữ liệu, bao gồm các class chứa thông tin của các bảng như Công 
+trình thủy lợi, Loại hạ tầng, Trạng thái công trình và Lịch sử bảo trì. 
+Các creator procedure được sử dụng để thực hiện các tác vụ thêm mới, 
+cập nhật, xóa và truy vấn dữ liệu nhanh chóng. 
+Thành phần View chịu trách nhiệm hiển thị dữ liệu và tương 
+tác với người dùng, sử dụng creator view để tối ưu hiệu suất 
+và giao diện WPF để mang lại trải nghiệm trực quan, mượt mà. 
+Controller đảm nhiệm việc xử lý logic, kết nối giữa Model và View, 
+đồng thời quản lý các nghiệp vụ như tính toán và truy vấn dữ liệu tổng hợp.
+Nó là cầu nối giữa Model và View, 
+chịu trách nhiệm nhận các đầu vào từ người dùng thông qua View, 
+sau đó xử lý các yêu cầu đó và truy vấn hoặc cập nhật dữ liệu trong Model. 
+Controller quyết định hành động phù hợp dựa trên yêu cầu và trả về 
+kết quả cho View.
+View là phần giao diện người dùng trong kiến trúc MVC, 
+chịu trách nhiệm hiển thị dữ liệu từ Model và nhận các đầu 
+vào từ người dùng. View giúp người dùng tương tác với hệ thống 
+một cách trực quan và dễ dàng. Trong hệ thống phần mềm quản lý cơ 
+sở dữ liệu công trình thủy lợi.
+
+
+
+
+\subsection{Tổng quan về phần mềm}
+
 Mô tả ngắn gọn nội dung của báo cáo.
 \newpage
 \section*{CHƯƠNG 2. Phân tích yêu cầu}

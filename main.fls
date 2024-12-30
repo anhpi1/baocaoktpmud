@@ -172,6 +172,10 @@ INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\tools\indentfirst.sty
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\tools\indentfirst.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
@@ -382,6 +386,8 @@ INPUT .\Abstract.tex
 INPUT .\Abstract.tex
 INPUT .\Abstract.tex
 INPUT Abstract.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmr8v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmb8v.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
@@ -389,6 +395,73 @@ INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT .\Images\QuanLyHeThong.jpg
+INPUT .\Images\QuanLyHeThong.jpg
+INPUT .\Images\QuanLyHeThong.jpg
+INPUT .\Images\QuanLyHeThong.jpg
+INPUT .\Images\QuanLyHeThong.jpg
+INPUT .\Images\QuanLyHeThong.jpg
+INPUT .\Images\QuanLyHeThong.jpg
+INPUT .\Images\ERRDQuanLyHeThong.png
+INPUT .\Images\ERRDQuanLyHeThong.png
+INPUT .\Images\ERRDQuanLyHeThong.png
+INPUT .\Images\ERRDQuanLyHeThong.png
+INPUT .\Images\ERRDQuanLyHeThong.png
+INPUT .\Images\ERRDQuanLyHeThong.png
+INPUT .\Images\ERRDQuanLyHeThong.png
+INPUT .\Images\FHDQuanLyHeThong.jpg
+INPUT .\Images\FHDQuanLyHeThong.jpg
+INPUT .\Images\FHDQuanLyHeThong.jpg
+INPUT .\Images\FHDQuanLyHeThong.jpg
+INPUT .\Images\FHDQuanLyHeThong.jpg
+INPUT .\Images\FHDQuanLyHeThong.jpg
+INPUT .\Images\FHDQuanLyHeThong.jpg
+INPUT .\Images\FHDSuperSu.jpg
+INPUT .\Images\FHDSuperSu.jpg
+INPUT .\Images\FHDSuperSu.jpg
+INPUT .\Images\FHDSuperSu.jpg
+INPUT .\Images\FHDSuperSu.jpg
+INPUT .\Images\FHDSuperSu.jpg
+INPUT .\Images\FHDSuperSu.jpg
+INPUT .\Images\FHDCoSoHanhChinh.jpg
+INPUT .\Images\FHDCoSoHanhChinh.jpg
+INPUT .\Images\FHDCoSoHanhChinh.jpg
+INPUT .\Images\FHDCoSoHanhChinh.jpg
+INPUT .\Images\FHDCoSoHanhChinh.jpg
+INPUT .\Images\FHDCoSoHanhChinh.jpg
+INPUT .\Images\FHDCoSoHanhChinh.jpg
+INPUT .\Images\FHDKhac.jpg
+INPUT .\Images\FHDKhac.jpg
+INPUT .\Images\FHDKhac.jpg
+INPUT .\Images\FHDKhac.jpg
+INPUT .\Images\FHDKhac.jpg
+INPUT .\Images\FHDKhac.jpg
+INPUT .\Images\FHDKhac.jpg
+INPUT .\Images\UserModel.png
+INPUT .\Images\UserModel.png
+INPUT .\Images\UserModel.png
+INPUT .\Images\UserModel.png
+INPUT .\Images\UserModel.png
+INPUT .\Images\UserModel.png
+INPUT .\Images\UserModel.png
+INPUT .\Images\CoSoModel.png
+INPUT .\Images\CoSoModel.png
+INPUT .\Images\CoSoModel.png
+INPUT .\Images\CoSoModel.png
+INPUT .\Images\CoSoModel.png
+INPUT .\Images\CoSoModel.png
+INPUT .\Images\CoSoModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
+INPUT .\Images\LichSuTruyCapModel.png
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl

@@ -1,0 +1,109 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="9Qhk9N30GL37y2uNr6SS">
+    <mxGraphModel dx="1235" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-1" value="Quản Lý hệ thống" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shape=mxgraph.flowchart.terminator;" vertex="1" parent="1">
+          <mxGeometry x="415" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-2" value="Đăng nhập" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shape=mxgraph.flowchart.terminator;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-3" value="Quên mật khẩu" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shape=mxgraph.flowchart.terminator;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-4" value="Đăng kí" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shape=mxgraph.flowchart.terminator;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-5" value="Đăng kí" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shape=mxgraph.flowchart.terminator;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-6" value="Đăng nhập" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shape=mxgraph.flowchart.terminator;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-7" value="Quên mật khẩu" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shape=mxgraph.flowchart.terminator;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-8" value="Đăng nhập" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shape=mxgraph.flowchart.terminator;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-15" target="eoAaOEKTbKCG-ajsFbHx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-15" value="Menu" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-17" value="Cơ sở hành chính" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-3" target="eoAaOEKTbKCG-ajsFbHx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-4" target="eoAaOEKTbKCG-ajsFbHx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-2" target="eoAaOEKTbKCG-ajsFbHx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-2" target="eoAaOEKTbKCG-ajsFbHx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-24" value="Quản lý cơ sở&lt;div&gt;hạ tầng thủy lợi&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="525" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-27" value="Chức năng người dùng" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-28" value="Thông tin tài khoản" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-29" value="Báo cáo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-30" value="Lịch sử tương tác" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-31" value="Supper su" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-32" value="Đăng xuất" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="330" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="630" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-1" target="eoAaOEKTbKCG-ajsFbHx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-1" target="eoAaOEKTbKCG-ajsFbHx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-1" target="eoAaOEKTbKCG-ajsFbHx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoAaOEKTbKCG-ajsFbHx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoAaOEKTbKCG-ajsFbHx-27" target="eoAaOEKTbKCG-ajsFbHx-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

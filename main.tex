@@ -19,7 +19,8 @@
 \setcounter{secnumdepth}{4} % 4 Heading
 \titlespacing*{\section}{0pt}{0pt}{30pt} % Heading 1
 \titleformat*{\section}{\fontsize{16pt}{0pt}\selectfont \bfseries \centering}
-
+\usepackage{booktabs}
+\usepackage{multirow}
 
 
 
@@ -162,20 +163,127 @@ một cách trực quan và dễ dàng.
 \setcounter{figure}{0}
 \setcounter{table}{0}
 \subsection{Yêu cầu chức năng}
-Liệt kê các chức năng chính mà hệ thống cần đáp ứng.
-\subsubsection{Tổng quan}
-\subsubsection{Cấu trúc mô tả yêu cầu chức năng}
-Mỗi yêu cầu chức năng có thể bao gồm:
-\begin{itemize}
-    \item Tên yêu cầu
-    \item Mô tả chi tiết
-    \item Đầu vào
-    \item Đầu ra
-    \item Người dùng liên quan
-\end{itemize}
+Do kích thước báo cáo có hạn chúng em sẽ chỉ liệt kê các chức năng đã làm của hệ thống không đi sâu chi tiết vào phần đặc tả
+
+Hệ thống gồm nhiều chức năng khác nhau chúng em chia lại thành các nhóm chức năng riêng biệt như sau:
+
+\begin{table}[H]
+    \centering
+    
+    \caption[Nhóm chức năng Admin]{\bfseries\fontsize{12pt}{0pt}\selectfont Nhóm chức năng Admin}
+    \begin{tabular}{|l|c|l|}
+        \hline
+        \textbf{STT} & \multicolumn{1}{l|}{\textbf{Nhóm chức năng}} & \textbf{Tên chức năng}                 \\ \hline
+        1            & \multirow{10}{*}{Admin}                      & Sửa Người Dùng                         \\ \cline{1-1} \cline{3-3} 
+        2            &                                              & Xóa Người Dùng                         \\ \cline{1-1} \cline{3-3} 
+        3            &                                              & Quản Lý Trạng Thái Người Dùng          \\ \cline{1-1} \cline{3-3} 
+        4            &                                              & Quản Lý Nhóm Người Dùng                \\ \cline{1-1} \cline{3-3} 
+        5            &                                              & Quản Trị Trạng Thái Nhóm Người Dùng    \\ \cline{1-1} \cline{3-3} 
+        6            &                                              & Tra Cứu Nhóm Người Dùng                \\ \cline{1-1} \cline{3-3} 
+        7            &                                              & Tra Cứu Phân Quyền Cho Nhóm Người Dùng \\ \cline{1-1} \cline{3-3} 
+        8            &                                              & Tra Cứu Phân Quyền Cho Người Dùng      \\ \cline{1-1} \cline{3-3} 
+        9            &                                              & Phân Quyền Cho Người Dùng              \\ \cline{1-1} \cline{3-3} 
+        10           &                                              & Phân Quyền Cho Nhóm Người Dùng         \\ \hline
+        \end{tabular}
+        \label{tab:admin}
+\end{table}
+Bảng \ref{tab:admin} mô tả nhóm chức năng Admin, người quản trị hệ thống với quyền cao nhất, có thể quản lý người dùng, phân quyền, và các chức năng hệ thống khác.
+
+\begin{table}[H]
+    \centering
+    
+    \caption[Nhóm chức năng User]{\bfseries\fontsize{12pt}{0pt}\selectfont Nhóm chức năng User}
+    \begin{tabular}{|l|c|l|}
+    \hline
+    \textbf{STT} & \multicolumn{1}{l|}{\textbf{Nhóm chức năng}} & \textbf{Tên chức năng}  \\ \hline
+    1            & \multirow{6}{*}{User·}                       & Đăng Nhập Hệ Thống      \\ \cline{1-1} \cline{3-3} 
+    2            &                                              & Quên Mật Khẩu           \\ \cline{1-1} \cline{3-3} 
+    3            &                                              & Đổi Mật Khẩu            \\ \cline{1-1} \cline{3-3} 
+    4            &                                              & Đăng Xuất Khỏi Hệ Thống \\ \cline{1-1} \cline{3-3} 
+    5            &                                              & Sửa Thông Tin Tài Khoản \\ \cline{1-1} \cline{3-3} 
+    6            &                                              & Xóa Tài Khoản           \\ \hline
+    \end{tabular}
+    \label{tab:user}
+\end{table}
+Bảng \ref{tab:user} mô tả nhóm chức năng User, người dùng thông thường có quyền truy cập và thao tác các chức năng cơ bản.
+
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[H]
+    \centering
+    
+    \caption[Nhóm chức năng cơ sở]{\bfseries\fontsize{12pt}{0pt}\selectfont Nhóm chức năng cơ sở}
+    \begin{tabular}{|l|c|l|}
+    \hline
+    \textbf{STT} & \multicolumn{1}{l|}{\textbf{Nhóm chức năng}} & \textbf{Tên chức năng}     \\ \hline
+    1            & \multirow{7}{*}{Cơ sở·}                      & Thêm Đơn Vị Hành Chính     \\ \cline{1-1} \cline{3-3} 
+    2            &                                              & Sửa Đơn Vị Hành Chính      \\ \cline{1-1} \cline{3-3} 
+    3            &                                              & Xóa Đơn Vị Hành Chính      \\ \cline{1-1} \cline{3-3} 
+    4            &                                              & Quản Lý Định Nghĩa Quyền   \\ \cline{1-1} \cline{3-3} 
+    5            &                                              & tìm kiếm nhóm hành chính   \\ \cline{1-1} \cline{3-3} 
+    6            &                                              & tìm kiếm đơn vị hành chính \\ \cline{1-1} \cline{3-3} 
+    7            &                                              & Tên Chức Năng              \\ \hline
+    \end{tabular}
+    \label{tab:coso}
+\end{table}
+Bảng \ref{tab:coso} mô tả nhóm chức năng cơ sở, đơn vị hành chính như huyện, xã có vai trò quản lý các danh mục hành chính.
+
+\begin{table}[H]
+    \centering
+    
+    \caption[Nhóm chức năng lịch sử]{\bfseries\fontsize{12pt}{0pt}\selectfont Nhóm chức năng lịch sử}
+    \begin{tabular}{|l|c|l|}
+    \hline
+    \textbf{STT} & \multicolumn{1}{l|}{\textbf{Nhóm chức năng}} & \textbf{Tên chức năng}                                                                                      \\ \hline
+    1            & \multirow{2}{*}{Lịch sử}                     & tìm kiếm người dùng                                                                                         \\ \cline{1-1} \cline{3-3} 
+    2            &                                              & \begin{tabular}[c]{@{}l@{}}Quản Lý Lịch Sử Truy Cập Người Dùng \\ và lịch sử tắc động hệ thống\end{tabular} \\ \hline
+    \end{tabular}
+    \label{tab:lichsu}
+\end{table}
+Bảng \ref{tab:lichsu} mô tả nhóm chức năng lịch sử, chức năng theo dõi và quản lý lịch sử truy cập và tác động hệ thống.
+
+\begin{table}[H]
+    \centering
+    
+    \caption[Nhóm chức năng báo cáo]{\bfseries\fontsize{12pt}{0pt}\selectfont Nhóm chức năng báo cáo}
+    \begin{tabular}{|l|c|l|}
+    \hline
+    \textbf{STT} & \multicolumn{1}{l|}{\textbf{Nhóm chức năng}} & \textbf{Tên chức năng}                         \\ \hline
+    1            & \multirow{4}{*}{Báo cáo}                     & Báo Cáo - Thống Kê Người Dùng                  \\ \cline{1-1} \cline{3-3} 
+    2            &                                              & Báo Cáo - Thống Kê Lịch Sử Truy Cập Người Dùng \\ \cline{1-1} \cline{3-3} 
+    3            &                                              & Báo Cáo - Thống Kê Lịch Sử Tác Động Hệ Thống   \\ \cline{1-1} \cline{3-3} 
+    4            &                                              & Báo Cáo - Thống Kê Tổng Hợp                    \\ \hline
+    \end{tabular}
+    \label{tab:baocao}
+\end{table}
+Bảng \ref{tab:baocao} mô tả nhóm chức năng báo cáo, chức năng tạo các báo cáo thống kê và tổng hợp dữ liệu.
+
+\newpage
+
 
 \subsection{Yêu cầu phi chức năng}
-Độ bảo mật, hiệu suất, tính khả dụng, v.v.
+\subsubsection{Hiệu suất}
+\begin{itemize}
+    \item Hệ thống phải có khả năng xử lý hàng nghìn yêu cầu truy vấn từ người dùng đồng thời mà không làm giảm hiệu suất.
+    \item Thời gian phản hồi cho các truy vấn tìm kiếm công trình thủy lợi không vượt quá 3 giây đối với cơ sở dữ liệu có kích thước lên đến 1 triệu bản ghi.
+    \item Hệ thống phải hỗ trợ tính năng lọc và tìm kiếm nhanh chóng theo nhiều tiêu chí (như tên công trình, loại công trình, vị trí địa lý, trạng thái hoạt động).
+\end{itemize}
+\subsubsection{Khả năng mở rộng}
+\begin{itemize}
+    \item Hệ thống phải có khả năng mở rộng quy mô để xử lý lượng dữ liệu lớn trong tương lai khi số lượng công trình thủy lợi gia tăng.
+    \item Cơ sở dữ liệu phải có khả năng mở rộng để lưu trữ hàng triệu bản ghi mà không làm giảm hiệu suất hệ thống.
+    \item Hệ thống phải hỗ trợ mở rộng theo chiều ngang (thêm máy chủ) để đáp ứng nhu cầu tăng trưởng.
+\end{itemize}
+\subsubsection{Tính tương tác}
+\begin{itemize}
+    \item Bố cục giao diện phải được thiết kế sao cho người dùng dễ dàng tương tác và thao tác với hệ thống.
+    \item Cần đảm bảo tính tương thích với các công cụ và phần mềm khác để dễ dàng truy xuất, xuất báo cáo, và phân tích dữ liệu.
+\end{itemize}
+\subsubsection{Dễ sử dụng}
+\begin{itemize}
+    \item Giao diện người dùng phải đơn giản, dễ sử dụng, và hỗ trợ nhiều ngôn ngữ để đáp ứng nhu cầu của người dùng trong và ngoài nước.
+    \item Hệ thống cần hỗ trợ các công cụ tìm kiếm, lọc dữ liệu một cách trực quan và dễ dàng.
+\end{itemize}
 
 \newpage
 \section*{CHƯƠNG 3. Mô hình hóa hệ thống}
@@ -187,15 +295,86 @@ Mỗi yêu cầu chức năng có thể bao gồm:
 \subsection{Sơ đồ ERD (Entity-Relationship Diagram)}
 Mô tả các thực thể, thuộc tính và quan hệ giữa chúng.  
 
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/QuanLyHeThong.jpg}
+    \caption[Sơ đồ ERD quản trị hệ thống]{\bfseries \fontsize{12pt}{0pt}\selectfont Sơ đồ ERD quản trị hệ thống}
+    \label{tab:ERDQuanLyHeThong}  
+\end{figure}
+Hình \ref{tab:ERDQuanLyHeThong} mô tả sơ đồ ERD quản trị hệ thống, bao gồm các thực thể như Người Dùng, Nhóm Người Dùng, Phân Quyền, Trạng Thái Người Dùng, và Lịch Sử Truy Cập.
+Tài khoản Admin có quyền cao nhất, có thể quản lý toàn bộ người dùng, theo dõi toàn bộ lịch sử tắc động hệ thống, quản lý toàn bộ cơ sở hành chính và truy cập báo cáo đầy đủ nhất.
+Người dùng thông thường có thể thực hiện truy xuất cơ sở dữ liệu tổng quát, xem một phần báo cáo, xem lịch sử tắc động hệ thống của chính tài khoản, và chỉnh sửa thông tin cá nhân.
+Một tỉnh có thể quản lý các huyện và thành phố, thành phố có thể quản lý các phường, huyện có thể quản lý nhiều xã và thị trấn. 
+
 
 \subsection{Sơ đồ EERD (Enhanced Entity-Relationship Diagram)}
 Thêm các yếu tố nâng cao như kế thừa (inheritance), tập thực thể con, v.v.  
+
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/ERRDQuanLyHeThong.png}
+    \caption[Sơ đồ ERRD quản trị hệ thống]{\bfseries \fontsize{12pt}{0pt}\selectfont Sơ đồ ERRD quản trị hệ thống}
+    \label{tab:ERRDQuanLyHeThong}  
+\end{figure}
+
+Hình \ref{tab:ERRDQuanLyHeThong} mô tả sơ đồ ERRD quản trị hệ thống, bao gồm các thực thể như Người Dùng, Nhóm Người Dùng, Phân Quyền, Trạng Thái Người Dùng, và Lịch Sử Truy Cập.
+Bảng user gồm các thông tin cơ bản như tên, email, mật khẩu, và trạng thái hoạt động kèm theo phân quyền có phải Admin hay không có một khóa chính là id có khóa ngoại đơn vị công tác gắn với một cơ sở.
+Bảng cơ sở bao gồm các thông tin cơ bản của một cơ sở hành chính kèm theo cơ sở cấp trên của nó có khóa chính là id khóa ngoại liên kết tới bảng để xác định cấp độ của cơ sở hành chính đó.
+Bảng lịch sử tắc động hệ thống có hai khóa chính một khóa liên kết với id người dùng và một khóa đóng vai trò xác định id của hành động đó.
 
 
 \subsection{Sơ đồ FHD (Functional Hierarchy Diagram)}
 Trình bày phân cấp các chức năng của hệ thống.  
 
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/FHDQuanLyHeThong.jpg}
+    \caption[Sơ đồ FHD quản trị hệ thống]{\bfseries \fontsize{12pt}{0pt}\selectfont Sơ đồ FHD quản trị hệ thống}
+    \label{tab:FHDQuanLyHeThong}  
+\end{figure}
+Hình \ref{tab:FHDQuanLyHeThong} là sơ đồ FHD quản trị hệ thống, 
+mô tả các chức năng cơ bản của hệ thống. 
+Chức năng đăng nhập có các chức năng con bao gồm quên mật khẩu và đăng kí, 
+quên mật khẩu có chức năng con là đăng nhập và đăng kí, 
+đăng kí có chức năng con là quên mật khẩu và đăng nhập.
+Menu có các chức năng con là nhóm chức năng cơ sở hành chính. 
+Nhóm chức năng người dùng có các chức năng con là thông tin người dùng, 
+báo cáo, lịch sử tắc động hệ thống, nhóm chức năng Admin, và chức năng đăng xuất.
 
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/FHDSuperSu.jpg}
+    \caption[Sơ đồ FHD nhóm chức năng Admin]{\bfseries \fontsize{12pt}{0pt}\selectfont Sơ đồ FHD nhóm chức năng Admin}
+    \label{tab:FHDSuperSu}  
+\end{figure}
+Hình \ref{tab:FHDSuperSu} là sơ đồ FHD nhóm chức năng siêu người dùng, 
+chức năng tìm kiếm gồm các chức năng con như tìm kiếm theo đơn vị công tác, 
+tìm kiếm theo phân quyền, tìm keiems theo trạng thái hoạt động. 
+Chức năng chỉnh sửa thông tin người dùng có các chức năng con như xem thông tin người dùng, 
+phân quyền cho người dùng, điều chuyển công tác cho người dùng, 
+xóa người dùng ra khỏi hệ thống.
+chức năng phân quyền theo nhóm có chức năng con là điều chueyenr công tác theo nhóm.
+
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/FHDCoSoHanhChinh.jpg}
+    \caption[Sơ đồ FHD nhóm chức năng cơ sở hành chính]{\bfseries \fontsize{12pt}{0pt}\selectfont Sơ đồ FHD nhóm chức năng cơ sở hành chính}
+    \label{tab:FHDCoSoHanhChinh} 
+\end{figure}
+Hình \ref{tab:FHDCoSoHanhChinh} là sơ đồ FHD nhóm chức năng cơ sở hành chính,
+Chức năng tìm kiếm có các chức năng con như tìm kiếm theo đơn vị hành chính, tìm kiếm theo cấp độ, chức năng phân quyền theo nhóm có các chức năng con như thêm cơ sở, phân quyền theo nhóm, chức năng thêm cơ sở có các chức năng con như thêm cơ sở, phân quyền theo nhóm, chức năng xem thông tin cơ sở có các chức năng con như chhinhr sửa thông tin, phân quyền và xóa cơ sở.
+
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/FHDKhac.jpg}
+    \caption[Sơ đồ FHD còn lại]{\bfseries \fontsize{12pt}{0pt}\selectfont Sơ đồ FHD còn lại}
+    \label{tab:FHDKhac} 
+\end{figure}
+
+\newpage
+Hình \ref{tab:FHDKhac} là sơ đồ FHD nhóm chức năng còn lại bao gồm thông tin tài khoản, báo cáo, lịch sử tắc động hệ thống, và chức năng đăng xuất.
+
+ 
 \newpage
 \section*{CHƯƠNG 4. Thiết kế hệ thống}
 \addcontentsline{toc}{section}{\numberline{}CHƯƠNG 4. Thiết kế hệ thống}
@@ -204,13 +383,44 @@ Trình bày phân cấp các chức năng của hệ thống.
 \setcounter{figure}{0}
 \setcounter{table}{0}
 \subsection{Thiết kế cơ sở dữ liệu}
-Mô tả bảng, khóa chính, khóa ngoại, chỉ mục.  
-Cách ánh xạ từ sơ đồ ERD/EERD thành cơ sở dữ liệu thực tế.
+\subsubsection{model}
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.6\textheight,keepaspectratio]{Images/UserModel.png}
+    \caption[UserModel]{\bfseries \fontsize{12pt}{0pt}\selectfont UserModel}
+    \label{tab:UserModel} 
+\end{figure}
+Hình \ref{tab:UserModel} mô tả bảng user, bao gồm các thông tin cơ bản như tên, email, mật khẩu, và trạng thái hoạt động kèm theo phân quyền có phải Admin hay không.
+\newpage
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/CoSoModel.png}
+    \caption[Cơ sở model]{\bfseries \fontsize{12pt}{0pt}\selectfont Cơ sở model}
+    \label{tab:CosoModel} 
+\end{figure}
+Hình \ref{tab:CosoModel} mô tả bảng cơ sở bao gồm các thông tin cơ bản của một cơ sở hành chính kèm theo cơ sở cấp trên của nó.
 
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/LichSuTruyCapModel.png}
+    \caption[Lịch sử truy cập Model]{\bfseries \fontsize{12pt}{0pt}\selectfont Lịch sử truy cập Model}
+    \label{tab:LichSuTruyCapModel} 
+\end{figure}
+Hình \ref{tab:LichSuTruyCapModel} mô tả bảng lịch sử tắc động hệ thống, bao gồm các thông tin cơ bản như id người dùng, hành động, và thời gian tắc động.
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/LichSuTruyCapModel.png}
+    \caption[Báo cáo Model]{\bfseries \fontsize{12pt}{0pt}\selectfont Báo cáo Model}
+    \label{tab:BaoCaoModel} 
+\end{figure}
+Hình \ref{tab:BaoCaoModel} mô tả bảng báo cáo, bao gồm các thông tin cơ bản như tên, email, mật khẩu, và trạng thái hoạt động kèm theo phân quyền có phải Admin hay không.
+
+
+\newpage
 \subsection{Thiết kế giao diện}
 Phác thảo giao diện chính của hệ thống. Định hướng trải nghiệm người dùng.
 
-\subsection{Thiết kế luồng hoạt động}
+\subsection{Thiết kế luồng hoạt động DFD (Data Flow Diagram)}
 Mô tả các luồng dữ liệu và xử lý thông qua sơ đồ luồng dữ liệu (DFD).
 
 \newpage

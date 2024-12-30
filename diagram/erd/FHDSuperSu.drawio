@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="-c988W7njfWe-6vn6bc7">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-1" value="Super su" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-2" value="Tìm kiếm" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KpkqgQDtUFFfIEKPKdRD-3" target="KpkqgQDtUFFfIEKPKdRD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-3" value="Phân quyền theo nhóm" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-4" value="Chỉnh sửa thông tin người dùng" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-5" value="tìm kiếm theo đơn vị công tác" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-6" value="Tìm kiếm theo phân quyền" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-7" value="Tìm kiếm theo trạng thái hoạt động" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-8" value="Điều chuyển công tác theo nhóm" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-9" value="Xem thông tin người dùng" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-10" value="Phân quyền cho người dùng" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-12" value="Điều chuyển công tác cho người dùng" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-13" value="Xóa người dùng" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KpkqgQDtUFFfIEKPKdRD-2" target="KpkqgQDtUFFfIEKPKdRD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KpkqgQDtUFFfIEKPKdRD-1" target="KpkqgQDtUFFfIEKPKdRD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KpkqgQDtUFFfIEKPKdRD-1" target="KpkqgQDtUFFfIEKPKdRD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KpkqgQDtUFFfIEKPKdRD-4" target="KpkqgQDtUFFfIEKPKdRD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpkqgQDtUFFfIEKPKdRD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KpkqgQDtUFFfIEKPKdRD-1" target="KpkqgQDtUFFfIEKPKdRD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

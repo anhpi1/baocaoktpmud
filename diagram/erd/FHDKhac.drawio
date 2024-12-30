@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="v6vRmXok7tOMnyExOOjm">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-1" value="Thông tin tài khoản" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-2" value="Chỉnh sửa thông tin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-3" value="xem thông tin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-4" value="Xóa tài khoản" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-5" value="Báo cáo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-6" value="Thống kê truy cập theo thời gian" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-7" value="Quản lý trạng thái hoạt động của User" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bpf4ObnykrYmjEb2LfHB-8" target="bpf4ObnykrYmjEb2LfHB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-8" value="Lịch sử tương tác" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-9" value="Lịch sử đăng nhập" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-10" value="Lịch sử thay đổi hệ thống" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bpf4ObnykrYmjEb2LfHB-11" target="bpf4ObnykrYmjEb2LfHB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-11" value="Đăng xuất" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-12" value="Đăng nhập" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bpf4ObnykrYmjEb2LfHB-1" target="bpf4ObnykrYmjEb2LfHB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bpf4ObnykrYmjEb2LfHB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bpf4ObnykrYmjEb2LfHB-5" target="bpf4ObnykrYmjEb2LfHB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -400,8 +400,6 @@ INPUT .\Abstract.tex
 INPUT .\Abstract.tex
 INPUT .\Abstract.tex
 INPUT Abstract.tex
-INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmr8v.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmb8v.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
@@ -409,6 +407,8 @@ INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmr8v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmb8v.tfm
 INPUT .\Images\QuanLyHeThong.jpg
 INPUT .\Images\QuanLyHeThong.jpg
 INPUT .\Images\QuanLyHeThong.jpg
@@ -451,12 +451,124 @@ INPUT .\Images\FHDKhac.jpg
 INPUT .\Images\FHDKhac.jpg
 INPUT .\Images\FHDKhac.jpg
 INPUT .\Images\FHDKhac.jpg
+INPUT .\Images\DFDTrucThuoc.jpg
+INPUT .\Images\DFDTrucThuoc.jpg
+INPUT .\Images\DFDTrucThuoc.jpg
+INPUT .\Images\DFDTrucThuoc.jpg
+INPUT .\Images\DFDTrucThuoc.jpg
+INPUT .\Images\DFDTrucThuoc.jpg
+INPUT .\Images\DFDTrucThuoc.jpg
+INPUT .\Images\DFDCoSo.jpg
+INPUT .\Images\DFDCoSo.jpg
+INPUT .\Images\DFDCoSo.jpg
+INPUT .\Images\DFDCoSo.jpg
+INPUT .\Images\DFDCoSo.jpg
+INPUT .\Images\DFDCoSo.jpg
+INPUT .\Images\DFDCoSo.jpg
+INPUT .\Images\DFDDieuChuyenCongTac.jpg
+INPUT .\Images\DFDDieuChuyenCongTac.jpg
+INPUT .\Images\DFDDieuChuyenCongTac.jpg
+INPUT .\Images\DFDDieuChuyenCongTac.jpg
+INPUT .\Images\DFDDieuChuyenCongTac.jpg
+INPUT .\Images\DFDDieuChuyenCongTac.jpg
+INPUT .\Images\DFDDieuChuyenCongTac.jpg
+INPUT .\Images\DFDFUser.jpg
+INPUT .\Images\DFDFUser.jpg
+INPUT .\Images\DFDFUser.jpg
+INPUT .\Images\DFDFUser.jpg
+INPUT .\Images\DFDFUser.jpg
+INPUT .\Images\DFDFUser.jpg
+INPUT .\Images\DFDFUser.jpg
 INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vntt12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vntt12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmr8v.tfm
+INPUT .\Images\s(451).png
+INPUT .\Images\s(451).png
+INPUT .\Images\s(451).png
+INPUT .\Images\s(451).png
+INPUT .\Images\s(451).png
+INPUT .\Images\s(451).png
+INPUT .\Images\s(451).png
+INPUT .\Images\s(452).png
+INPUT .\Images\s(452).png
+INPUT .\Images\s(452).png
+INPUT .\Images\s(452).png
+INPUT .\Images\s(452).png
+INPUT .\Images\s(452).png
+INPUT .\Images\s(452).png
+INPUT .\Images\s(453).png
+INPUT .\Images\s(453).png
+INPUT .\Images\s(453).png
+INPUT .\Images\s(453).png
+INPUT .\Images\s(453).png
+INPUT .\Images\s(453).png
+INPUT .\Images\s(453).png
+INPUT .\Images\s(455).png
+INPUT .\Images\s(455).png
+INPUT .\Images\s(455).png
+INPUT .\Images\s(455).png
+INPUT .\Images\s(455).png
+INPUT .\Images\s(455).png
+INPUT .\Images\s(455).png
+INPUT .\Images\s(456).png
+INPUT .\Images\s(456).png
+INPUT .\Images\s(456).png
+INPUT .\Images\s(456).png
+INPUT .\Images\s(456).png
+INPUT .\Images\s(456).png
+INPUT .\Images\s(456).png
+INPUT .\Images\s(465).png
+INPUT .\Images\s(465).png
+INPUT .\Images\s(465).png
+INPUT .\Images\s(465).png
+INPUT .\Images\s(465).png
+INPUT .\Images\s(465).png
+INPUT .\Images\s(465).png
+INPUT .\Images\s(457).png
+INPUT .\Images\s(457).png
+INPUT .\Images\s(457).png
+INPUT .\Images\s(457).png
+INPUT .\Images\s(457).png
+INPUT .\Images\s(457).png
+INPUT .\Images\s(457).png
+INPUT .\Images\s(459).png
+INPUT .\Images\s(459).png
+INPUT .\Images\s(459).png
+INPUT .\Images\s(459).png
+INPUT .\Images\s(459).png
+INPUT .\Images\s(459).png
+INPUT .\Images\s(459).png
+INPUT .\Images\s(462).png
+INPUT .\Images\s(462).png
+INPUT .\Images\s(462).png
+INPUT .\Images\s(462).png
+INPUT .\Images\s(462).png
+INPUT .\Images\s(462).png
+INPUT .\Images\s(462).png
+INPUT .\Images\s(463).png
+INPUT .\Images\s(463).png
+INPUT .\Images\s(463).png
+INPUT .\Images\s(463).png
+INPUT .\Images\s(463).png
+INPUT .\Images\s(463).png
+INPUT .\Images\s(463).png
+INPUT .\Images\s(461).png
+INPUT .\Images\s(461).png
+INPUT .\Images\s(461).png
+INPUT .\Images\s(461).png
+INPUT .\Images\s(461).png
+INPUT .\Images\s(461).png
+INPUT .\Images\s(461).png
+INPUT .\Images\s(460).png
+INPUT .\Images\s(460).png
+INPUT .\Images\s(460).png
+INPUT .\Images\s(460).png
+INPUT .\Images\s(460).png
+INPUT .\Images\s(460).png
+INPUT .\Images\s(460).png
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
@@ -465,7 +577,7 @@ INPUT .\PhuLuc.tex
 INPUT .\PhuLuc.tex
 INPUT .\PhuLuc.tex
 INPUT PhuLuc.tex
-INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vntt10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmr8v.tfm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
@@ -479,7 +591,5 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\urwvn\utmr8v.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\urwvn\utmr8v.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\urwvn\utmri8v.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\urwvn\utmri8v.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt12.pfb

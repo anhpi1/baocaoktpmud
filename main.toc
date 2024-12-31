@@ -19,16 +19,17 @@
 \contentsline {subsection}{\numberline {3.3}Sơ đồ FHD (Functional Hierarchy Diagram)}{7}{subsection.3.3}%
 \contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 4. Thiết kế hệ thống}{11}{figure.caption.21}%
 \contentsline {subsection}{\numberline {4.1}Thiết kế cơ sở dữ liệu}{11}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}model}{11}{subsubsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.2}Thiết kế giao diện}{14}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Thiết kế luồng hoạt động DFD (Data Flow Diagram)}{14}{subsection.4.3}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 5. Thực hiện và triển khai}{15}{subsection.4.3}%
-\contentsline {subsection}{\numberline {5.1}Công nghệ và công cụ sử dụng}{15}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Triển khai hệ thống}{15}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Thử nghiệm hệ thống}{15}{subsection.5.3}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }KẾT LUẬN}{16}{section*.26}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }Kết luận chung}{16}{section*.27}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }Hướng phát triển}{16}{section*.28}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }Kiến nghị và đề xuất}{16}{section*.29}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }TÀI LIỆU THAM KHẢO}{17}{section*.30}%
-\contentsline {section}{\hbox to\@tempdima {\hfil } PHỤ LỤC}{18}{section*.31}%
+\contentsline {subsubsection}{\numberline {4.1.1}Model}{11}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Creater view}{12}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Thiết kế giao diện}{16}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Thiết kế luồng hoạt động DFD (Data Flow Diagram)}{16}{subsection.4.3}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 5. Thực hiện và triển khai}{17}{subsection.4.3}%
+\contentsline {subsection}{\numberline {5.1}Công nghệ và công cụ sử dụng}{17}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Triển khai hệ thống}{17}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Thử nghiệm hệ thống}{17}{subsection.5.3}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }KẾT LUẬN}{18}{section*.22}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Kết luận chung}{18}{section*.23}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Hướng phát triển}{18}{section*.24}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Kiến nghị và đề xuất}{18}{section*.25}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }TÀI LIỆU THAM KHẢO}{19}{section*.26}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } PHỤ LỤC}{20}{section*.27}%

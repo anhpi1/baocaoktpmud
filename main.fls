@@ -180,6 +180,22 @@ INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
@@ -222,8 +238,6 @@ INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\k\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
@@ -437,31 +451,12 @@ INPUT .\Images\FHDKhac.jpg
 INPUT .\Images\FHDKhac.jpg
 INPUT .\Images\FHDKhac.jpg
 INPUT .\Images\FHDKhac.jpg
-INPUT .\Images\UserModel.png
-INPUT .\Images\UserModel.png
-INPUT .\Images\UserModel.png
-INPUT .\Images\UserModel.png
-INPUT .\Images\UserModel.png
-INPUT .\Images\UserModel.png
-INPUT .\Images\UserModel.png
-INPUT .\Images\CoSoModel.png
-INPUT .\Images\CoSoModel.png
-INPUT .\Images\CoSoModel.png
-INPUT .\Images\CoSoModel.png
-INPUT .\Images\CoSoModel.png
-INPUT .\Images\CoSoModel.png
-INPUT .\Images\CoSoModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
-INPUT .\Images\LichSuTruyCapModel.png
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vntt12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vntt12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmr8v.tfm
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
@@ -470,10 +465,6 @@ INPUT .\PhuLuc.tex
 INPUT .\PhuLuc.tex
 INPUT .\PhuLuc.tex
 INPUT PhuLuc.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vntt12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vntt10.tfm
 INPUT main.aux
 INPUT .\main.out
@@ -490,3 +481,5 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\urwvn\utmri8v.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\urwvn\utmri8v.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt12.pfb

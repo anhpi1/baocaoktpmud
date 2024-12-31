@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.25)  31 DEC 2024 03:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.25)  31 DEC 2024 17:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -537,40 +537,69 @@ Package caption Info: float package is loaded.
 Package caption Info: scrextend package is loaded.
 \caption@addmargin@hsize=\dimen284
 \caption@addmargin@linewidth=\dimen285
+) (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count293
+\lst@gtempboxa=\box65
+\lst@token=\toks36
+\lst@length=\count294
+\lst@currlwidth=\dimen286
+\lst@column=\count295
+\lst@pos=\count296
+\lst@lostspace=\dimen287
+\lst@width=\dimen288
+\lst@newlines=\count297
+\lst@lineno=\count298
+\lst@maxwidth=\dimen289
+ (C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2023/02/27 1.9 (Carsten Heinz)
+) (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count299
+\lst@skipnumbers=\count300
+\lst@framebox=\box66
+) (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count301
+) (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
  (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen286
-\ar@mcellbox=\box65
-\extrarowheight=\dimen287
-\NC@list=\toks36
+\col@sep=\dimen290
+\ar@mcellbox=\box67
+\extrarowheight=\dimen291
+\NC@list=\toks37
 \extratabsurround=\skip54
 \backup@length=\skip55
-\ar@cellbox=\box66
+\ar@cellbox=\box68
 )
-\TX@col@width=\dimen288
-\TX@old@table=\dimen289
-\TX@old@col=\dimen290
-\TX@target=\dimen291
-\TX@delta=\dimen292
-\TX@cols=\count293
-\TX@ftn=\toks37
+\TX@col@width=\dimen292
+\TX@old@table=\dimen293
+\TX@old@col=\dimen294
+\TX@target=\dimen295
+\TX@delta=\dimen296
+\TX@cols=\count302
+\TX@ftn=\toks38
 )
-\c@theorem=\count294
+\c@theorem=\count303
  (C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-01-04 L3 programming layer (loader) 
  (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
-\l__pdf_internal_box=\box67
+\l__color_backend_stack_int=\count304
+\l__pdf_internal_box=\box69
 ))
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count296
-\l__lipsum_a_int=\count297
-\l__lipsum_b_int=\count298
+\g__lipsum_par_int=\count305
+\l__lipsum_a_int=\count306
+\l__lipsum_b_int=\count307
  (C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
  (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
@@ -603,22 +632,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count299
-) (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count300
+\c@section@level=\count308
 )
-\@linkdim=\dimen293
-\Hy@linkcounter=\count301
-\Hy@pagecounter=\count302
+\@linkdim=\dimen297
+\Hy@linkcounter=\count309
+\Hy@pagecounter=\count310
  (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+)
+(C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count303
+\Hy@SavedSpaceFactor=\count311
  (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -632,21 +659,21 @@ Package hyperref Info: Plain pages OFF on input line 4196.
 Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count304
+\c@Hy@tempcnt=\count312
  (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen294
+\XeTeXLinkMargin=\dimen298
  (C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count305
-\Field@Width=\dimen295
-\Fld@charsize=\dimen296
+\Fld@menulength=\count313
+\Field@Width=\dimen299
+\Fld@charsize=\dimen300
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -658,20 +685,19 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count306
-\c@Item=\count307
-\c@Hfootnote=\count308
+\Hy@abspage=\count314
+\c@Item=\count315
+\c@Hfootnote=\count316
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
  (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count309
-\c@bookmark@seq@number=\count310
+\Fld@listcount=\count317
+\c@bookmark@seq@number=\count318
  (C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -682,41 +708,41 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip56
 ) (C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
-\everycr=\toks38
+\everycr=\toks39
 \minrowclearance=\skip57
-\rownum=\count311
+\rownum=\count319
 ) (C:\Program Files\MiKTeX\tex/latex/forloop\forloop.sty
 Package: forloop 2023/05/03 v3.0 For Loops for LaTeX
  (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ))
-\c@loopcntr=\count312
-LaTeX Font Info:    Trying to load font information for T5+ptm on input line 73.
+\c@loopcntr=\count320
+LaTeX Font Info:    Trying to load font information for T5+ptm on input line 101.
  (C:\Program Files\MiKTeX\tex/latex/vntex\t5ptm.fd
 File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -752,20 +778,20 @@ LaTeX Font Info:    ... okay on input line 73.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\big@size=\dimen297
+\big@size=\dimen301
 (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
-\scratchdimen=\dimen298
-\scratchbox=\box68
-\nofMPsegments=\count314
-\nofMParguments=\count315
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count316
-\MPscratchDim=\dimen299
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count321
+\scratchdimen=\dimen302
+\scratchbox=\box70
+\nofMPsegments=\count322
+\nofMParguments=\count323
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count324
+\MPscratchDim=\dimen303
+\MPnumerator=\count325
+\makeMPintoPDFobject=\count326
+\everyMPtoPDFconversion=\toks41
 ) (C:\Users\k\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -774,14 +800,16 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 73.
+\c@lstlisting=\count327
+Package hyperref Info: Link coloring OFF on input line 101.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
  (Bia.tex
-<Images/logodhbk.png, id=134, 184.69pt x 275.0275pt>
+<Images/logodhbk.png, id=138, 184.69pt x 275.0275pt>
 File: Images/logodhbk.png Graphic file (type png)
 <use Images/logodhbk.png>
 Package pdftex.def Info: Images/logodhbk.png  used on input line 18.
@@ -882,173 +910,156 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.158 \newpage
+l.189 \newpage
                [1
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 199.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 234.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.229 B
+l.264 B
        áº£ng \ref{tab:coso} mÃ´ táº£ nhÃ³m chá»©c nÄƒng cÆ¡ sá»Ÿ, Ä‘Æ¡n vá»‹... [2{C:/Users/k/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.261 \newpage
+l.295 \newpage
                [3]
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.288 \newpage
+l.327 \newpage
                [4]
-<Images/QuanLyHeThong.jpg, id=302, 423.5825pt x 393.47pt>
+<Images/QuanLyHeThong.jpg, id=299, 423.5825pt x 393.47pt>
 File: Images/QuanLyHeThong.jpg Graphic file (type jpg)
 <use Images/QuanLyHeThong.jpg>
-Package pdftex.def Info: Images/QuanLyHeThong.jpg  used on input line 300.
+Package pdftex.def Info: Images/QuanLyHeThong.jpg  used on input line 339.
 (pdftex.def)             Requested size: 455.25829pt x 422.89394pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.310 ...D (Enhanced Entity-Relationship Diagram)}
+l.349 ...D (Enhanced Entity-Relationship Diagram)}
                                                    [5 <./Images/QuanLyHeThong.jpg>]
-<Images/ERRDQuanLyHeThong.png, id=307, 330.033pt x 413.74574pt>
+<Images/ERRDQuanLyHeThong.png, id=304, 330.033pt x 413.74574pt>
 File: Images/ERRDQuanLyHeThong.png Graphic file (type png)
 <use Images/ERRDQuanLyHeThong.png>
-Package pdftex.def Info: Images/ERRDQuanLyHeThong.png  used on input line 315.
+Package pdftex.def Info: Images/ERRDQuanLyHeThong.png  used on input line 354.
 (pdftex.def)             Requested size: 455.24458pt x 570.71722pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.324 
+l.363 
        [6 <./Images/ERRDQuanLyHeThong.png>]
-<Images/FHDQuanLyHeThong.jpg, id=314, 715.67375pt x 655.44875pt>
+<Images/FHDQuanLyHeThong.jpg, id=311, 715.67375pt x 655.44875pt>
 File: Images/FHDQuanLyHeThong.jpg Graphic file (type jpg)
 <use Images/FHDQuanLyHeThong.jpg>
-Package pdftex.def Info: Images/FHDQuanLyHeThong.jpg  used on input line 331.
+Package pdftex.def Info: Images/FHDQuanLyHeThong.jpg  used on input line 370.
 (pdftex.def)             Requested size: 455.24496pt x 416.93542pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.343 
+l.382 
        [7 <./Images/FHDQuanLyHeThong.jpg>]
-<Images/FHDSuperSu.jpg, id=320, 503.8825pt x 564.1075pt>
+<Images/FHDSuperSu.jpg, id=317, 503.8825pt x 564.1075pt>
 File: Images/FHDSuperSu.jpg Graphic file (type jpg)
 <use Images/FHDSuperSu.jpg>
-Package pdftex.def Info: Images/FHDSuperSu.jpg  used on input line 346.
+Package pdftex.def Info: Images/FHDSuperSu.jpg  used on input line 385.
 (pdftex.def)             Requested size: 455.24307pt x 509.65457pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.357 
+l.396 
        [8 <./Images/FHDSuperSu.jpg>]
-<Images/FHDCoSoHanhChinh.jpg, id=325, 664.4825pt x 483.8075pt>
+<Images/FHDCoSoHanhChinh.jpg, id=322, 664.4825pt x 483.8075pt>
 File: Images/FHDCoSoHanhChinh.jpg Graphic file (type jpg)
 <use Images/FHDCoSoHanhChinh.jpg>
-Package pdftex.def Info: Images/FHDCoSoHanhChinh.jpg  used on input line 360.
+Package pdftex.def Info: Images/FHDCoSoHanhChinh.jpg  used on input line 399.
 (pdftex.def)             Requested size: 455.24887pt x 331.4652pt.
-<Images/FHDKhac.jpg, id=327, 624.3325pt x 363.3575pt>
+<Images/FHDKhac.jpg, id=324, 624.3325pt x 363.3575pt>
 File: Images/FHDKhac.jpg Graphic file (type jpg)
 <use Images/FHDKhac.jpg>
-Package pdftex.def Info: Images/FHDKhac.jpg  used on input line 369.
+Package pdftex.def Info: Images/FHDKhac.jpg  used on input line 408.
 (pdftex.def)             Requested size: 455.25403pt x 264.95491pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.374 \newpage
+l.413 \newpage
                [9 <./Images/FHDCoSoHanhChinh.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.378 \newpage
+l.417 \newpage
                [10 <./Images/FHDKhac.jpg>]
-<Images/UserModel.png, id=335, 187.902pt x 317.38576pt>
-File: Images/UserModel.png Graphic file (type png)
-<use Images/UserModel.png>
-Package pdftex.def Info: Images/UserModel.png  used on input line 389.
-(pdftex.def)             Requested size: 254.70325pt x 430.21994pt.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 430.
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 430.
+ (C:\Program Files\MiKTeX\tex/latex/vntex\t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <11.86258> not available
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 431.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.394 \newpage
-               [11 <./Images/UserModel.png>]
-<Images/CoSoModel.png, id=341, 260.172pt x 153.57375pt>
-File: Images/CoSoModel.png Graphic file (type png)
-<use Images/CoSoModel.png>
-Package pdftex.def Info: Images/CoSoModel.png  used on input line 397.
-(pdftex.def)             Requested size: 455.26808pt x 268.73463pt.
-<Images/LichSuTruyCapModel.png, id=343, 251.13824pt x 160.80075pt>
-File: Images/LichSuTruyCapModel.png Graphic file (type png)
-<use Images/LichSuTruyCapModel.png>
-Package pdftex.def Info: Images/LichSuTruyCapModel.png  used on input line 405.
-(pdftex.def)             Requested size: 455.2636pt x 291.49968pt.
-File: Images/LichSuTruyCapModel.png Graphic file (type png)
-<use Images/LichSuTruyCapModel.png>
-Package pdftex.def Info: Images/LichSuTruyCapModel.png  used on input line 412.
-(pdftex.def)             Requested size: 455.2636pt x 291.49968pt.
-
+l.464 
+       [11]
 pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.417 
-       [12 <./Images/CoSoModel.png> <./Images/LichSuTruyCapModel.png>]
+l.502 ...efinition}, label={tab:danhsachcosoView}]
+                                                   [12]
 pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.419 \newpage
+l.532 \newpage
                [13]
 pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.426 \newpage
-               [14] [15] [16] (main.bbl
+l.575         access_date
+                          [14] [15] [16] [17] [18] (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 24.
 
-) [17] (PhuLuc.tex
-LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 4.
- (C:\Program Files\MiKTeX\tex/latex/vntex\t5cmtt.fd
-File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-))
-Overfull \hbox (15.54019pt too wide) in paragraph at lines 4--461
+) [19] (PhuLuc.tex)
+Overfull \hbox (15.54019pt too wide) in paragraph at lines 4--642
 [] \T5/cmtt/m/n/10 M¢ nguçn ch÷ìng tr¼nh (n¸u câ) ^^_÷ñc ^^_÷a v o ^^_¥y, sû döng font Courier New, cï 10pt.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--461
+Underfull \hbox (badness 10000) in paragraph at lines 4--642
 
  []
 
-[18] (main.aux)
+[20] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3390C3B8D9E41DBC13419F4796C36920;6350.
+(rerunfilecheck)             Checksum: 489D9436FEBE17E2A2B8BC354A6A4688;6481.
  ) 
 Here is how much of TeX's memory you used:
- 23987 strings out of 474485
- 449806 string characters out of 5745621
- 1952542 words of memory out of 5000000
- 45748 multiletter control sequences out of 15000+600000
- 613113 words of font info for 79 fonts, out of 8000000 for 9000
+ 25944 strings out of 474485
+ 475713 string characters out of 5745621
+ 2046542 words of memory out of 5000000
+ 47552 multiletter control sequences out of 15000+600000
+ 615687 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,16n,107p,685b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmbi8v.pfb><C:/Users/k/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
-Output written on main.pdf (36 pages, 583818 bytes).
+ 108i,16n,107p,685b,1992s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmbi8v.pfb><C:/Users/k/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on main.pdf (38 pages, 555627 bytes).
 PDF statistics:
- 420 PDF objects out of 1000 (max. 8388607)
- 72 named destinations out of 1000 (max. 500000)
- 327 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 592 PDF objects out of 1000 (max. 8388607)
+ 209 named destinations out of 1000 (max. 500000)
+ 320 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,16 +1,16 @@
 # Fdb version 4
-["bibtex main"] 1735654709.36032 "main.aux" "main.bbl" "main" 1735655080.85326 0
+["bibtex main"] 1735655290.93442 "main.aux" "main.bbl" "main" 1735655296.54823 0
   "./TaiLieuThamKhao.bib" 1735071716 638 521a8a7cab8baf49af67be6b5997c80d ""
   "C:/Program Files/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1735655078 10325 0a259a455ace5ac1046d1a32937d2acf "pdflatex"
+  "main.aux" 1735655295 10325 37bab17d845dbec2027d89db3a3d5652 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1735655064.96023 "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" "main.pdf" "main" 1735655080.85419 0
+["pdflatex"] 1735655291.62733 "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" "main.pdf" "main" 1735655296.54959 0
   "Abbreviations.tex" 1735071716 500 02de15f7e613945af334f7a551419c36 ""
   "Abstract.tex" 1735071716 277 89547096b3ec2cf99326ab95570455eb ""
-  "Bia.tex" 1735655008 3584 7525ed07224ca97c548df2fdb6f9aedc ""
+  "Bia.tex" 1735655212 3425 9fcb753025aead5eac1bd0fe3a3ed7b1 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/vntex/t5.enc" 1368738347 7824 21ade6c3c7fd67cb4ace8dbc91c53118 ""
   "C:/Program Files/MiKTeX/fonts/tfm/vntex/urwvn/utmb8v.tfm" 1124904812 9152 6eaf55be4c040a59ad35102d0af7daf8 ""
   "C:/Program Files/MiKTeX/fonts/tfm/vntex/urwvn/utmbi8v.tfm" 1124904812 9232 d188c1846fdbd7ca0b8cd68799721241 ""
@@ -203,14 +203,14 @@
   "LoiCamDoan.tex" 1735234620 775 be3ea7c34b48a9a094df264f36dea79a ""
   "LoiNoiDau.tex" 1735071716 405 f8e27e160d7b58d892f9f29b03e9f1d4 ""
   "PhuLuc.tex" 1735071716 245 d2436714718d2f6cd8e9d0341e8c975a ""
-  "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" 1735640042 32391 bad18654fe5da545fb89152abd7ccfa2 ""
-  "main.aux" 1735655078 10325 0a259a455ace5ac1046d1a32937d2acf "pdflatex"
-  "main.bbl" 1735654709 901 628a2a8c68e066122d1514411e0b8455 "bibtex main"
-  "main.lof" 1735655078 721 dbe6fcca99a1b3cb54cd98427d3270d5 "pdflatex"
-  "main.lot" 1735655078 527 c4113354335f44e44620c2c069602cd1 "pdflatex"
-  "main.out" 1735655078 6481 489d9436febe17e2a2b8bc354a6a4688 "pdflatex"
-  "main.tex" 1735640042 32391 bad18654fe5da545fb89152abd7ccfa2 ""
-  "main.toc" 1735655078 3389 1cec9cb3f55546221bd47fc4db961eac "pdflatex"
+  "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" 1735655284 32399 1c50f0a3d48560b8edb9772948e80484 ""
+  "main.aux" 1735655295 10325 37bab17d845dbec2027d89db3a3d5652 "pdflatex"
+  "main.bbl" 1735655291 901 628a2a8c68e066122d1514411e0b8455 "bibtex main"
+  "main.lof" 1735655295 721 dbe6fcca99a1b3cb54cd98427d3270d5 "pdflatex"
+  "main.lot" 1735655295 527 c4113354335f44e44620c2c069602cd1 "pdflatex"
+  "main.out" 1735655295 6481 489d9436febe17e2a2b8bc354a6a4688 "pdflatex"
+  "main.tex" 1735655284 32399 1c50f0a3d48560b8edb9772948e80484 ""
+  "main.toc" 1735655295 3389 1cec9cb3f55546221bd47fc4db961eac "pdflatex"
   (generated)
   "main.aux"
   "main.lof"

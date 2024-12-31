@@ -1,16 +1,16 @@
 # Fdb version 4
-["bibtex main"] 1735654416.31783 "main.aux" "main.bbl" "main" 1735654613.9339 0
+["bibtex main"] 1735654416.31783 "main.aux" "main.bbl" "main" 1735654838.01247 0
   "./TaiLieuThamKhao.bib" 1735654341 656 521a8a7cab8baf49af67be6b5997c80d ""
   "C:/Program Files/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1735654612 10325 0a259a455ace5ac1046d1a32937d2acf "pdflatex"
+  "main.aux" 1735654836 10325 0a259a455ace5ac1046d1a32937d2acf "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1735654609.00736 "d:/github/baocaoktpmud/main.tex" "main.pdf" "main" 1735654613.93472 0
+["pdflatex"] 1735654833.43375 "d:/github/baocaoktpmud/main.tex" "main.pdf" "main" 1735654838.01388 0
   "Abbreviations.tex" 1735654341 511 02de15f7e613945af334f7a551419c36 ""
   "Abstract.tex" 1735654341 280 89547096b3ec2cf99326ab95570455eb ""
-  "Bia.tex" 1735654607 3426 0c75e40f0787552340c0e100982c9005 ""
+  "Bia.tex" 1735654832 3425 9fcb753025aead5eac1bd0fe3a3ed7b1 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/vntex/t5.enc" 1368738347 7824 21ade6c3c7fd67cb4ace8dbc91c53118 ""
   "C:/Program Files/MiKTeX/fonts/tfm/vntex/urwvn/utmb8v.tfm" 1124904812 9152 6eaf55be4c040a59ad35102d0af7daf8 ""
   "C:/Program Files/MiKTeX/fonts/tfm/vntex/urwvn/utmbi8v.tfm" 1124904812 9232 d188c1846fdbd7ca0b8cd68799721241 ""
@@ -203,13 +203,13 @@
   "LoiNoiDau.tex" 1735654341 408 f8e27e160d7b58d892f9f29b03e9f1d4 ""
   "PhuLuc.tex" 1735654341 248 d2436714718d2f6cd8e9d0341e8c975a ""
   "d:/github/baocaoktpmud/main.tex" 1735654341 33034 bad18654fe5da545fb89152abd7ccfa2 ""
-  "main.aux" 1735654612 10325 0a259a455ace5ac1046d1a32937d2acf "pdflatex"
+  "main.aux" 1735654836 10325 0a259a455ace5ac1046d1a32937d2acf "pdflatex"
   "main.bbl" 1735654416 901 628a2a8c68e066122d1514411e0b8455 "bibtex main"
-  "main.lof" 1735654612 721 dbe6fcca99a1b3cb54cd98427d3270d5 "pdflatex"
-  "main.lot" 1735654612 527 c4113354335f44e44620c2c069602cd1 "pdflatex"
-  "main.out" 1735654612 6481 489d9436febe17e2a2b8bc354a6a4688 "pdflatex"
+  "main.lof" 1735654836 721 dbe6fcca99a1b3cb54cd98427d3270d5 "pdflatex"
+  "main.lot" 1735654836 527 c4113354335f44e44620c2c069602cd1 "pdflatex"
+  "main.out" 1735654836 6481 489d9436febe17e2a2b8bc354a6a4688 "pdflatex"
   "main.tex" 1735654341 33034 bad18654fe5da545fb89152abd7ccfa2 ""
-  "main.toc" 1735654612 3389 1cec9cb3f55546221bd47fc4db961eac "pdflatex"
+  "main.toc" 1735654836 3389 1cec9cb3f55546221bd47fc4db961eac "pdflatex"
   (generated)
   "main.aux"
   "main.lof"

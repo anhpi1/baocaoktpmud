@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.25)  3 JAN 2025 11:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.25)  3 JAN 2025 11:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -977,17 +977,25 @@ File: Images/ERRDQuanLyHeThong.png Graphic file (type png)
 Package pdftex.def Info: Images/ERRDQuanLyHeThong.png  used on input line 449.
 (pdftex.def)             Requested size: 455.24458pt x 570.71722pt.
 
+
+LaTeX Warning: Reference `tab:EERDQuanLyHeThong' on page 10 undefined on input line 454.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.458 
        [10 <./Images/ERRDQuanLyHeThong.png>]
-<Images/ERRDHeThong.png, id=444, 507.69675pt x 483.0045pt>
+<Images/ERRDHeThong.png, id=443, 507.69675pt x 483.0045pt>
 File: Images/ERRDHeThong.png Graphic file (type png)
 <use Images/ERRDHeThong.png>
 Package pdftex.def Info: Images/ERRDHeThong.png  used on input line 461.
 (pdftex.def)             Requested size: 455.24954pt x 433.1081pt.
-<Images/FHDQuanLyHeThong.jpg, id=446, 715.67375pt x 655.44875pt>
+
+
+LaTeX Warning: Reference `tab:EERDHeThong' on page 11 undefined on input line 466.
+
+<Images/FHDQuanLyHeThong.jpg, id=444, 715.67375pt x 655.44875pt>
 File: Images/FHDQuanLyHeThong.jpg Graphic file (type jpg)
 <use Images/FHDQuanLyHeThong.jpg>
 Package pdftex.def Info: Images/FHDQuanLyHeThong.jpg  used on input line 477.
@@ -998,7 +1006,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has 
                    \relax 
 l.480 \end{figure}
                    [11 <./Images/ERRDHeThong.png>]
-<Images/FHDSuperSu.jpg, id=453, 503.8825pt x 564.1075pt>
+<Images/FHDSuperSu.jpg, id=451, 503.8825pt x 564.1075pt>
 File: Images/FHDSuperSu.jpg Graphic file (type jpg)
 <use Images/FHDSuperSu.jpg>
 Package pdftex.def Info: Images/FHDSuperSu.jpg  used on input line 493.
@@ -1014,12 +1022,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has 
                    \relax 
 l.505 \newpage
                [13 <./Images/FHDSuperSu.jpg>]
-<Images/FHDCoSoHanhChinh.jpg, id=461, 664.4825pt x 483.8075pt>
+<Images/FHDCoSoHanhChinh.jpg, id=459, 664.4825pt x 483.8075pt>
 File: Images/FHDCoSoHanhChinh.jpg Graphic file (type jpg)
 <use Images/FHDCoSoHanhChinh.jpg>
 Package pdftex.def Info: Images/FHDCoSoHanhChinh.jpg  used on input line 508.
 (pdftex.def)             Requested size: 455.24887pt x 331.4652pt.
-<Images/FHDKhac.jpg, id=463, 624.3325pt x 363.3575pt>
+<Images/FHDKhac.jpg, id=461, 624.3325pt x 363.3575pt>
 File: Images/FHDKhac.jpg Graphic file (type jpg)
 <use Images/FHDKhac.jpg>
 Package pdftex.def Info: Images/FHDKhac.jpg  used on input line 518.
@@ -1030,30 +1038,30 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has 
                    \relax 
 l.523 \newpage
                [14 <./Images/FHDCoSoHanhChinh.jpg>]
-<Images/FHDHeThong.jpg, id=468, 862.22125pt x 564.1075pt>
+<Images/FHDHeThong.jpg, id=466, 862.22125pt x 564.1075pt>
 File: Images/FHDHeThong.jpg Graphic file (type jpg)
 <use Images/FHDHeThong.jpg>
 Package pdftex.def Info: Images/FHDHeThong.jpg  used on input line 528.
 (pdftex.def)             Requested size: 455.23843pt x 297.83934pt.
  [15 <./Images/FHDKhac.jpg> <./Images/FHDHeThong.jpg>]
-<Images/DFDTrucThuoc.jpg, id=474, 713.66624pt x 302.12875pt>
+<Images/DFDTrucThuoc.jpg, id=472, 713.66624pt x 302.12875pt>
 File: Images/DFDTrucThuoc.jpg Graphic file (type jpg)
 <use Images/DFDTrucThuoc.jpg>
 Package pdftex.def Info: Images/DFDTrucThuoc.jpg  used on input line 540.
 (pdftex.def)             Requested size: 455.24205pt x 192.72554pt.
  [16 <./Images/DFDTrucThuoc.jpg>]
-<Images/DFDCoSo.jpg, id=480, 793.96625pt x 432.61626pt>
+<Images/DFDCoSo.jpg, id=478, 793.96625pt x 432.61626pt>
 File: Images/DFDCoSo.jpg Graphic file (type jpg)
 <use Images/DFDCoSo.jpg>
 Package pdftex.def Info: Images/DFDCoSo.jpg  used on input line 549.
 (pdftex.def)             Requested size: 455.25497pt x 248.0593pt.
-<Images/DFDDieuChuyenCongTac.jpg, id=482, 713.66624pt x 302.12875pt>
+<Images/DFDDieuChuyenCongTac.jpg, id=480, 713.66624pt x 302.12875pt>
 File: Images/DFDDieuChuyenCongTac.jpg Graphic file (type jpg)
 <use Images/DFDDieuChuyenCongTac.jpg>
 Package pdftex.def Info: Images/DFDDieuChuyenCongTac.jpg  used on input line 558.
 (pdftex.def)             Requested size: 455.24205pt x 192.72554pt.
  [17 <./Images/DFDCoSo.jpg> <./Images/DFDDieuChuyenCongTac.jpg>]
-<Images/DFDFUser.jpg, id=489, 740.7675pt x 369.38pt>
+<Images/DFDFUser.jpg, id=487, 740.7675pt x 369.38pt>
 File: Images/DFDFUser.jpg Graphic file (type jpg)
 <use Images/DFDFUser.jpg>
 Package pdftex.def Info: Images/DFDFUser.jpg  used on input line 567.
@@ -1067,99 +1075,99 @@ File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <11.86258> not available
 (Font)              Font shape `T5/cmtt/m/n' tried instead on input line 590.
  [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
-<Images/s(451).png, id=823, 1927.2pt x 1084.05pt>
+<Images/s(451).png, id=821, 1927.2pt x 1084.05pt>
 File: Images/s(451).png Graphic file (type png)
 <use Images/s(451).png>
 Package pdftex.def Info: Images/s(451).png  used on input line 938.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
-<Images/s(452).png, id=825, 1927.2pt x 1084.05pt>
+<Images/s(452).png, id=823, 1927.2pt x 1084.05pt>
 File: Images/s(452).png Graphic file (type png)
 <use Images/s(452).png>
 Package pdftex.def Info: Images/s(452).png  used on input line 947.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
  [29 <./Images/s(451).png> <./Images/s(452).png>]
-<Images/s(453).png, id=834, 1927.2pt x 1084.05pt>
+<Images/s(453).png, id=832, 1927.2pt x 1084.05pt>
 File: Images/s(453).png Graphic file (type png)
 <use Images/s(453).png>
 Package pdftex.def Info: Images/s(453).png  used on input line 956.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
-<Images/s(455).png, id=836, 1927.2pt x 1084.05pt>
+<Images/s(455).png, id=834, 1927.2pt x 1084.05pt>
 File: Images/s(455).png Graphic file (type png)
 <use Images/s(455).png>
 Package pdftex.def Info: Images/s(455).png  used on input line 965.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
  [30 <./Images/s(453).png> <./Images/s(455).png>]
-<Images/s(456).png, id=844, 1927.2pt x 1084.05pt>
+<Images/s(456).png, id=842, 1927.2pt x 1084.05pt>
 File: Images/s(456).png Graphic file (type png)
 <use Images/s(456).png>
 Package pdftex.def Info: Images/s(456).png  used on input line 974.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
-<Images/s(465).png, id=846, 1927.2pt x 1084.05pt>
+<Images/s(465).png, id=844, 1927.2pt x 1084.05pt>
 File: Images/s(465).png Graphic file (type png)
 <use Images/s(465).png>
 Package pdftex.def Info: Images/s(465).png  used on input line 983.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
  [31 <./Images/s(456).png> <./Images/s(465).png>]
-<Images/s(457).png, id=854, 1927.2pt x 1084.05pt>
+<Images/s(457).png, id=852, 1927.2pt x 1084.05pt>
 File: Images/s(457).png Graphic file (type png)
 <use Images/s(457).png>
 Package pdftex.def Info: Images/s(457).png  used on input line 992.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
-<Images/s(459).png, id=856, 1927.2pt x 1084.05pt>
+<Images/s(459).png, id=854, 1927.2pt x 1084.05pt>
 File: Images/s(459).png Graphic file (type png)
 <use Images/s(459).png>
 Package pdftex.def Info: Images/s(459).png  used on input line 1001.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
  [32 <./Images/s(457).png> <./Images/s(459).png>]
-<Images/s(462).png, id=864, 1927.2pt x 1084.05pt>
+<Images/s(462).png, id=862, 1927.2pt x 1084.05pt>
 File: Images/s(462).png Graphic file (type png)
 <use Images/s(462).png>
 Package pdftex.def Info: Images/s(462).png  used on input line 1010.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
-<Images/s(463).png, id=866, 1927.2pt x 1084.05pt>
+<Images/s(463).png, id=864, 1927.2pt x 1084.05pt>
 File: Images/s(463).png Graphic file (type png)
 <use Images/s(463).png>
 Package pdftex.def Info: Images/s(463).png  used on input line 1019.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
-<Images/s(461).png, id=868, 1927.2pt x 1084.05pt>
+<Images/s(461).png, id=866, 1927.2pt x 1084.05pt>
 File: Images/s(461).png Graphic file (type png)
 <use Images/s(461).png>
 Package pdftex.def Info: Images/s(461).png  used on input line 1028.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
  [33 <./Images/s(462).png> <./Images/s(463).png>]
-<Images/s(460).png, id=876, 1927.2pt x 1084.05pt>
+<Images/s(460).png, id=874, 1927.2pt x 1084.05pt>
 File: Images/s(460).png Graphic file (type png)
 <use Images/s(460).png>
 Package pdftex.def Info: Images/s(460).png  used on input line 1037.
 (pdftex.def)             Requested size: 455.2446pt x 256.07509pt.
  [34 <./Images/s(461).png> <./Images/s(460).png>]
-<Images/hienthi.jpg, id=884, 1156.32pt x 650.43pt>
+<Images/hienthi.jpg, id=882, 1156.32pt x 650.43pt>
 File: Images/hienthi.jpg Graphic file (type jpg)
 <use Images/hienthi.jpg>
 Package pdftex.def Info: Images/hienthi.jpg  used on input line 1046.
 (pdftex.def)             Requested size: 455.23283pt x 256.06847pt.
-<Images/chitiet.jpg, id=885, 1156.32pt x 650.43pt>
+<Images/chitiet.jpg, id=883, 1156.32pt x 650.43pt>
 File: Images/chitiet.jpg Graphic file (type jpg)
 <use Images/chitiet.jpg>
 Package pdftex.def Info: Images/chitiet.jpg  used on input line 1052.
 (pdftex.def)             Requested size: 455.23283pt x 256.06847pt.
-<Images/loc.png, id=886, 1156.32pt x 650.43pt>
+<Images/loc.png, id=884, 1156.32pt x 650.43pt>
 File: Images/loc.png Graphic file (type png)
 <use Images/loc.png>
 Package pdftex.def Info: Images/loc.png  used on input line 1058.
 (pdftex.def)             Requested size: 455.23283pt x 256.06847pt.
  [35 <./Images/hienthi.jpg> <./Images/chitiet.jpg>]
-<Images/them1.png, id=892, 1156.32pt x 650.43pt>
+<Images/them1.png, id=890, 1156.32pt x 650.43pt>
 File: Images/them1.png Graphic file (type png)
 <use Images/them1.png>
 Package pdftex.def Info: Images/them1.png  used on input line 1065.
 (pdftex.def)             Requested size: 455.23283pt x 256.06847pt.
-<Images/them2.jpg, id=893, 1156.32pt x 650.43pt>
+<Images/them2.jpg, id=891, 1156.32pt x 650.43pt>
 File: Images/them2.jpg Graphic file (type jpg)
 <use Images/them2.jpg>
 Package pdftex.def Info: Images/them2.jpg  used on input line 1070.
 (pdftex.def)             Requested size: 455.23283pt x 256.06847pt.
-<Images/them3.png, id=894, 1156.32pt x 650.43pt>
+<Images/them3.png, id=892, 1156.32pt x 650.43pt>
 File: Images/them3.png Graphic file (type png)
 <use Images/them3.png>
 Package pdftex.def Info: Images/them3.png  used on input line 1075.
@@ -1189,21 +1197,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--42
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C8F96D58F9F3AC3764A4E655DA4CA515;8889.
  ) 
 Here is how much of TeX's memory you used:
- 26700 strings out of 474485
- 488566 string characters out of 5745621
+ 26702 strings out of 474485
+ 488606 string characters out of 5745621
  2061542 words of memory out of 5000000
- 47940 multiletter control sequences out of 15000+600000
+ 47942 multiletter control sequences out of 15000+600000
  617639 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,16n,107p,685b,2000s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmbi8v.pfb><C:/Users/k/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on main.pdf (66 pages, 4047744 bytes).
+Output written on main.pdf (66 pages, 4047597 bytes).
 PDF statistics:
- 1264 PDF objects out of 1440 (max. 8388607)
+ 1262 PDF objects out of 1440 (max. 8388607)
  578 named destinations out of 1000 (max. 500000)
  525 words of extra memory for PDF output out of 10000 (max. 10000000)
 

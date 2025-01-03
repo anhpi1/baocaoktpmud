@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1735879328.95688 "main.aux" "main.bbl" "main" 1735879340.63639 0
+["bibtex main"] 1735879399.46126 "main.aux" "main.bbl" "main" 1735879413.14012 0
   "./TaiLieuThamKhao.bib" 1735675466 1042 c7e3c8680e455c410d57c1e1b28a6550 ""
   "C:/Program Files/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1735879338 19969 7500311fb1609b110799a8b74c617580 "pdflatex"
+  "main.aux" 1735879411 19971 98de398d15dd83655a34af77c4420c57 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1735879329.51745 "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" "main.pdf" "main" 1735879340.6378 0
+["pdflatex"] 1735879400.03807 "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" "main.pdf" "main" 1735879413.14125 0
   "Abbreviations.tex" 1735674270 685 6827db5af6afe0836224ae784f5b68a4 ""
   "Abstract.tex" 1735674463 1675 61134260c9038854508ae8b299ed777d ""
   "Bia.tex" 1735735447 3441 29105a7d918e7c012deea0fef70f706b ""
@@ -225,14 +225,14 @@
   "LoiCamDoan.tex" 1735735447 794 795ca1d9924d1141c763b78b730ee707 ""
   "LoiNoiDau.tex" 1735674164 1549 accecf35b6e097f2b216ffcf9b08b77a ""
   "PhuLuc.tex" 1735676112 176 d42441469769df1b3d805dfe0c647248 ""
-  "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" 1735879314 65860 1e1ef2220e52be4090bf9066fd44042e ""
-  "main.aux" 1735879338 19969 7500311fb1609b110799a8b74c617580 "pdflatex"
-  "main.bbl" 1735879329 1646 4caa2f74f81790e81c7a60e44d1d517f "bibtex main"
-  "main.lof" 1735879338 3126 42dcf50a822ac046fe2b22f56e028ace "pdflatex"
-  "main.lot" 1735879338 643 1c9ab81fd3cad1b9b1ee58bae9e65db6 "pdflatex"
-  "main.out" 1735879338 8985 7ebb3344506d532fb7f5deca0cbc6b45 "pdflatex"
-  "main.tex" 1735879314 65860 1e1ef2220e52be4090bf9066fd44042e ""
-  "main.toc" 1735879338 4534 b530d8723a4a3b69ecdf94523c409606 "pdflatex"
+  "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" 1735879383 65862 d2794bfa2adccbfb88616db6024af676 ""
+  "main.aux" 1735879411 19971 98de398d15dd83655a34af77c4420c57 "pdflatex"
+  "main.bbl" 1735879399 1646 4caa2f74f81790e81c7a60e44d1d517f "bibtex main"
+  "main.lof" 1735879411 3126 42dcf50a822ac046fe2b22f56e028ace "pdflatex"
+  "main.lot" 1735879411 643 1c9ab81fd3cad1b9b1ee58bae9e65db6 "pdflatex"
+  "main.out" 1735879411 9001 6da1209cdcd0579f84e66267baa3eeda "pdflatex"
+  "main.tex" 1735879383 65862 d2794bfa2adccbfb88616db6024af676 ""
+  "main.toc" 1735879411 4536 2357be4989203a1b5d0eea7f7d4702f3 "pdflatex"
   (generated)
   "main.aux"
   "main.lof"

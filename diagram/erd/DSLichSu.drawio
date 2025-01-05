@@ -1,0 +1,28 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="PawMzocRjeL2sbKDLpRk">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zem63ms4eO_QcG-QxZ0R-1" value="Lịch sử" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Zem63ms4eO_QcG-QxZ0R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zem63ms4eO_QcG-QxZ0R-1" source="Zem63ms4eO_QcG-QxZ0R-3" target="Zem63ms4eO_QcG-QxZ0R-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zem63ms4eO_QcG-QxZ0R-3" value="Tìm kiếm người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Zem63ms4eO_QcG-QxZ0R-1">
+          <mxGeometry x="20" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zem63ms4eO_QcG-QxZ0R-4" value="Lịch sử tắc động hệ thống" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Zem63ms4eO_QcG-QxZ0R-1">
+          <mxGeometry x="180" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zem63ms4eO_QcG-QxZ0R-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zem63ms4eO_QcG-QxZ0R-5" target="Zem63ms4eO_QcG-QxZ0R-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zem63ms4eO_QcG-QxZ0R-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

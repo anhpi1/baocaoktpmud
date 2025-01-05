@@ -1,0 +1,68 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="wITm5s71grSMCRUJ7Cli">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-1" value="Super SU" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="600" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qzboppe0SBzgbmnH3w3h-1" source="Qzboppe0SBzgbmnH3w3h-39" target="Qzboppe0SBzgbmnH3w3h-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-39" value="Tra cứu" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-1">
+          <mxGeometry x="20" y="75" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-7" value="Tra cứu nhóm người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-39">
+          <mxGeometry x="20" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-8" value="Tra cứu phân quyền cho nhóm người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-39">
+          <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-9" value="Tra cứu phân quyền cho người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-39">
+          <mxGeometry x="20" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qzboppe0SBzgbmnH3w3h-1" source="Qzboppe0SBzgbmnH3w3h-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-40" value="Quản lý" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-1">
+          <mxGeometry x="220" y="75" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-6" value="Quản lý nhóm người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-40">
+          <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-5" value="Quản lý trạng thái nhóm người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-40">
+          <mxGeometry x="20" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-4" value="Quản lý trạng thái người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-40">
+          <mxGeometry x="20" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-41" value="Chỉnh sửa" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-1">
+          <mxGeometry x="420" y="50" width="160" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-3" value="Xóa người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-41">
+          <mxGeometry x="20" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-2" value="Sửa người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-41">
+          <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-10" value="Phân quyền cho người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-41">
+          <mxGeometry x="20" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-11" value="Phân quyền cho nhóm người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Qzboppe0SBzgbmnH3w3h-41">
+          <mxGeometry x="20" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qzboppe0SBzgbmnH3w3h-12" target="Qzboppe0SBzgbmnH3w3h-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qzboppe0SBzgbmnH3w3h-12" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="345" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

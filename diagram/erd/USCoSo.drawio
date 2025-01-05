@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="CyPN0CQ1RE0lr5vvDaks">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-2" value="Cơ sở" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="140" width="400" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wGBYtO-33qAEJgAzoXXe-2" source="wGBYtO-33qAEJgAzoXXe-4" target="wGBYtO-33qAEJgAzoXXe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-4" value="Tìm kiếm" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wGBYtO-33qAEJgAzoXXe-2">
+          <mxGeometry x="20" y="40" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-5" value="Tìm kiếm nhóm đơn vị hành chính" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wGBYtO-33qAEJgAzoXXe-4">
+          <mxGeometry x="20" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-6" value="Tìm kiếm đơn vị hành chính" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wGBYtO-33qAEJgAzoXXe-4">
+          <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-7" value="Sửa đơn vị hành chính" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="wGBYtO-33qAEJgAzoXXe-2">
+          <mxGeometry x="220" y="40" width="160" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-8" value="Thêm đơn vị hành chính" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wGBYtO-33qAEJgAzoXXe-7">
+          <mxGeometry x="20" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-9" value="Sửa đơn vị hành chính" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wGBYtO-33qAEJgAzoXXe-7">
+          <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-10" value="Xóa đơn vị hành chính" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wGBYtO-33qAEJgAzoXXe-7">
+          <mxGeometry x="20" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-11" value="Quản lý định nghĩa quyền" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wGBYtO-33qAEJgAzoXXe-7">
+          <mxGeometry x="20" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wGBYtO-33qAEJgAzoXXe-14" target="wGBYtO-33qAEJgAzoXXe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGBYtO-33qAEJgAzoXXe-14" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="345" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

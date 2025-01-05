@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1735879948.13511 "main.aux" "main.bbl" "main" 1735879959.74461 0
+["bibtex main"] 1736108339.39295 "main.aux" "main.bbl" "main" 1736108349.68949 0
   "./TaiLieuThamKhao.bib" 1735675466 1042 c7e3c8680e455c410d57c1e1b28a6550 ""
   "C:/Program Files/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1735879957 19984 1842ed2c5f2a698b9bc82b64ada8fd91 "pdflatex"
+  "main.aux" 1736108347 22336 73c8a2b297301e4050ad8ddf44293756 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1735879949.11423 "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" "main.pdf" "main" 1735879959.74575 0
+["pdflatex"] 1736108339.9147 "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" "main.pdf" "main" 1736108349.69097 0
   "Abbreviations.tex" 1735674270 685 6827db5af6afe0836224ae784f5b68a4 ""
   "Abstract.tex" 1735674463 1675 61134260c9038854508ae8b299ed777d ""
   "Bia.tex" 1735735447 3441 29105a7d918e7c012deea0fef70f706b ""
@@ -195,6 +195,7 @@
   "Images/DFDDieuChuyenCongTac.jpg" 1735670760 32375 e30f5701dfd94bc923b9a4d28093e96c ""
   "Images/DFDFUser.jpg" 1735662353 40309 23659f2996970c9957a82495b7efaebf ""
   "Images/DFDTrucThuoc.jpg" 1735669857 32358 4d6961141479e862af794fb5babbdf1b ""
+  "Images/DSLichSu.jpg" 1736107419 12074 39880821151e9e525e6db8d1c0492ac5 ""
   "Images/ERRDHeThong.png" 1735735447 225890 d12172b9a9f4151d4c3b6fb4431221fe ""
   "Images/ERRDQuanLyHeThong.png" 1735584733 129954 96a37a662322c1c91b01f3cd22dc5bf7 ""
   "Images/FHDCoSoHanhChinh.jpg" 1735588728 44250 00bfb9526192a50b179826b1b7ee2904 ""
@@ -203,6 +204,10 @@
   "Images/FHDQuanLyHeThong.jpg" 1735586539 53303 6d51b3521b7e35bc4ca55be7c49ee02a ""
   "Images/FHDSuperSu.jpg" 1735588128 42644 6f63b501f7ef516de460101d96df3d14 ""
   "Images/QuanLyHeThong.jpg" 1735584191 20653 46c9b5380d8e82e8bf2699ad3783e703 ""
+  "Images/USAdmin.jpg" 1736107571 55684 a4c40265ba0e40112ac7f90cbeb0a9f9 ""
+  "Images/USBaoCao.jpg" 1736107471 21860 34ec3ce82757c11d2076613a1e9ea5b3 ""
+  "Images/USCoSo.jpg" 1736107405 35456 407f2586584ea5a3ae870ae06ff1034f ""
+  "Images/USUser.jpg" 1736107313 38599 2181bd5dc0196216bf1334cc8566a70c ""
   "Images/chitiet.jpg" 1735735447 144875 25cf989f42bfa4442df35530b1209c5a ""
   "Images/hienthi.jpg" 1735735447 127361 abdf20d61a95c672c56e0e4d35a2d4fb ""
   "Images/loc.png" 1735735447 174846 a32b8fc492fbe45e63be8afb880fbeb8 ""
@@ -225,14 +230,14 @@
   "LoiCamDoan.tex" 1735735447 794 795ca1d9924d1141c763b78b730ee707 ""
   "LoiNoiDau.tex" 1735674164 1549 accecf35b6e097f2b216ffcf9b08b77a ""
   "PhuLuc.tex" 1735676112 176 d42441469769df1b3d805dfe0c647248 ""
-  "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" 1735879934 65875 b3268786be15d00dea1a4cf224988115 ""
-  "main.aux" 1735879957 19984 1842ed2c5f2a698b9bc82b64ada8fd91 "pdflatex"
-  "main.bbl" 1735879948 1646 4caa2f74f81790e81c7a60e44d1d517f "bibtex main"
-  "main.lof" 1735879958 3126 42dcf50a822ac046fe2b22f56e028ace "pdflatex"
-  "main.lot" 1735879958 643 1c9ab81fd3cad1b9b1ee58bae9e65db6 "pdflatex"
-  "main.out" 1735879957 9075 0145a7ac8ebecb426e71bf3070a839c0 "pdflatex"
-  "main.tex" 1735879934 65875 b3268786be15d00dea1a4cf224988115 ""
-  "main.toc" 1735879958 4549 a007ffa0c9d0b3b7bdb8827c6094b164 "pdflatex"
+  "c:/Users/k/Documents/latex/baocaoktpmud/main.tex" 1736108326 78088 23c29b9a99357b655ca4f5cdc51eee3a ""
+  "main.aux" 1736108347 22336 73c8a2b297301e4050ad8ddf44293756 "pdflatex"
+  "main.bbl" 1736108339 1646 4caa2f74f81790e81c7a60e44d1d517f "bibtex main"
+  "main.lof" 1736108347 3655 bd55afd3fed08e91bd5bed45ab554ab8 "pdflatex"
+  "main.lot" 1736108347 1198 6cad7bae677cd464dc39ef9613d4304f "pdflatex"
+  "main.out" 1736108347 9078 8ff1da398a8a949583fddf85c2e54fc9 "pdflatex"
+  "main.tex" 1736108326 78088 23c29b9a99357b655ca4f5cdc51eee3a ""
+  "main.toc" 1736108347 4558 224e1444388a226ad3193d4177b08c25 "pdflatex"
   (generated)
   "main.aux"
   "main.lof"

@@ -241,17 +241,159 @@ Phần mềm không chỉ đáp ứng tốt các yêu cầu hiện tại mà cò
 \setcounter{subsection}{0}
 \setcounter{figure}{0}
 \setcounter{table}{0}
+\subsection{Use case Diagram}
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{Images/USAdmin.jpg}
+    \caption[Use Case Diagram Admin]{\bfseries \fontsize{12pt}{0pt}\selectfont Use Case Diagram Admin}
+    \label{tab:UCDAdmin}  
+\end{figure}
 
-\subsection{Usercase Diagram}
+\begin{table}[H]
+    \centering    
+    \caption[Use Case Specification Admin]{\bfseries\fontsize{12pt}{0pt}\selectfont Use Case Specification Admin}
+    \begin{tabular}{|l|c|l|c|}
+        \hline
+        \textbf{STT}       & \multicolumn{1}{l|}{Luồng sự kiện} & Hành động                                      & \multicolumn{1}{l|}{Tác nhân} \\ \hline
+        1                  & \multirow{14}{*}{Chính}            & Kiểm tra quyền của tài khoản                   & \multicolumn{1}{l|}{Hệ thống} \\ \cline{1-1} \cline{3-4} 
+        \multirow{4}{*}{2} &                                    & Tra cứu                                        & \multirow{4}{*}{Admin}        \\ 
+                           &                                    & ·       Tra cứu nhóm người dung                &                               \\
+                           &                                    & ·       Tra cứu phân quyền cho nhóm người dùng &                               \\
+                           &                                    & ·       Tra cứu phân quyền cho người dùng      &                               \\ \cline{1-1} \cline{3-4} 
+        \multirow{4}{*}{3} &                                    & Quản lý                                        & \multirow{4}{*}{Admin}        \\
+                           &                                    & ·       Quản lý trạng thái người dung          &                               \\
+                           &                                    & ·       Quản lý trạng thái nhóm người dùng     &                               \\
+                           &                                    & ·       Quản lý nhóm người dùng                &                               \\ \cline{1-1} \cline{3-4} 
+        \multirow{5}{*}{4} &                                    & Sửa thông tin                                  & \multirow{5}{*}{Admin}        \\
+                           &                                    & ·       Sửa người dùng                         &                               \\
+                           &                                    & ·       Xóa người dùng                         &                               \\
+                           &                                    & ·       Phân quyền cho người dùng              &                               \\
+                           &                                    & ·       Phân quyền cho nhóm người dùng         &                               \\ \hline
+        1                  & \multicolumn{1}{l|}{Thay thế}      & Thông báo không có quyền truy cập              & \multicolumn{1}{l|}{Hệ thống} \\ \hline
+        \end{tabular}
+    \label{tab:UCSAdmin}
+\end{table}
 
+Hình \ref{tab:UCDAdmin} và bảng \ref{tab:UCSAdmin} mô tả các use case và use case specification cho nhóm người dùng Admin.
+\newpage
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{Images/USUser.jpg}
+    \caption[Use Case Diagram User]{\bfseries \fontsize{12pt}{0pt}\selectfont Use Case Diagram User}
+    \label{tab:UCDUser}  
+\end{figure}
+
+\begin{table}[H]
+    \centering    
+    \caption[Use Case Specification User]{\bfseries\fontsize{12pt}{0pt}\selectfont Use Case Specification User}
+    \begin{tabular}{|l|c|l|l|}
+        \hline
+        \textbf{STT}       & \multicolumn{1}{l|}{Luồng sự kiện} & Hành động                                 & Tác nhân                    \\ \hline
+        1                  & \multirow{7}{*}{Chính}             & Đăng nhập                                 & Người dùng                  \\ \cline{1-1} \cline{3-4} 
+        2                  &                                    & Kiểm tra tên đăng nhập và mật khẩu        & Hệ thống                    \\ \cline{1-1} \cline{3-4} 
+        3                  &                                    & Truy cập vào hệ thống                     & Người dùng                  \\ \cline{1-1} \cline{3-4} 
+        \multirow{4}{*}{4} &                                    & Thông tin tài khoản                       & \multirow{4}{*}{Người dùng} \\
+                           &                                    & ·       Xóa tài khoản                     &                             \\
+                           &                                    & ·       Đổi mật khẩu                      &                             \\
+                           &                                    & ·       Sửa thông tin tài khoản           &                             \\ \hline
+        1                  & Thay thế                           & Thông báo sai tên đăng nhập hoặc mật khẩu & Hệ thống                    \\ \hline
+        1                  & \multirow{3}{*}{Phụ}               & Quên mật khẩu                             & Người dùng                  \\ \cline{1-1} \cline{3-4} 
+        2                  &                                    & Đăng kí                                   & Người dùng                  \\ \cline{1-1} \cline{3-4} 
+        3                  &                                    & Đăng xuất                                 &                             \\ \hline
+        \end{tabular}
+    \label{tab:UCSUser}
+\end{table}
+
+Hình \ref{tab:UCDUser} và bảng \ref{tab:UCSUser} mô tả các use case và use case specification cho nhóm người dùng User.
+\newpage
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{Images/USCoSo.jpg}
+    \caption[Use Case Diagram Cơ Sở]{\bfseries \fontsize{12pt}{0pt}\selectfont Use Case Diagram Cơ Sở}
+    \label{tab:UCDCoSo}  
+\end{figure}
+
+\begin{table}[H]
+    \centering    
+    \caption[Use Case Specification Cơ sở]{\bfseries\fontsize{12pt}{0pt}\selectfont Use Case Specification Cơ sở}
+    \begin{tabular}{|l|c|l|c|}
+        \hline
+        \textbf{STT}       & \multicolumn{1}{l|}{Luồng sự kiện} & Hành động                                 & \multicolumn{1}{l|}{Tác nhân}   \\ \hline
+        1                  & \multirow{10}{*}{Chính}            & Truy cập vào quản lý cơ sở hành chính     & \multicolumn{1}{l|}{Người dùng} \\ \cline{1-1} \cline{3-4} 
+        \multirow{3}{*}{2} &                                    & Tìm kiếm                                  & \multirow{3}{*}{Người dùng}     \\ \cline{3-3}
+                           &                                    & ·         Tìm kiếm nhóm đơn vị hành chính &                                 \\
+                           &                                    & ·         Tìm kiếm đơn vị hành chính      &                                 \\ \cline{1-1} \cline{3-4} 
+        3                  &                                    & Kiểm tra quyền của người dùng             & \multicolumn{1}{l|}{Hệ thống}   \\ \cline{1-1} \cline{3-4} 
+        \multirow{4}{*}{4} &                                    & Quản lý đơn vị hành chính                 & \multirow{5}{*}{Admin}          \\ \cline{3-3}
+                           &                                    & ·         Thêm đơn vị hành chính          &                                 \\
+                           &                                    & ·         Sửa đơn vị hành chính           &                                 \\
+                           &                                    & ·         Xóa đơn vị hành chính           &                                 \\ \cline{1-1}
+        5                  &                                    & ·         Quản lý định nghĩa quyền        &                                 \\ \hline
+        1                  & \multicolumn{1}{l|}{Thay thế}      & Thông báo không có quyền chỉnh sửa        & \multicolumn{1}{l|}{Hệ thống}   \\ \hline
+        \end{tabular}
+    \label{tab:UCSCoSo}
+\end{table}
+
+Hình \ref{tab:UCDCoSo} và bảng \ref{tab:UCSCoSo} mô tả các use case và use case specification cho nhóm người dùng Cơ sở.
+\newpage
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{Images/DSLichSu.jpg}
+    \caption[Use Case Diagram Lịch sử]{\bfseries \fontsize{12pt}{0pt}\selectfont Use Case Diagram Lịch sử}
+    \label{tab:UCDLichSu}  
+\end{figure}
+
+\begin{table}[H]
+    \centering    
+    \caption[Use Case Specification Lịch Sử]{\bfseries\fontsize{12pt}{0pt}\selectfont Use Case Specification Lịch Sử}
+    \begin{tabular}{|c|c|p{8cm}|c|}
+        \hline
+        \textbf{STT} & \multicolumn{1}{c|}{\textbf{Luồng sự kiện}} & \textbf{Hành động} & \textbf{Tác nhân} \\ \hline
+        1 & \multirow{4}{*}{Chính} & Truy cập vào lịch sử & Người dùng \\ \cline{1-1} \cline{3-4} 
+        2 & & Kiểm tra quyền & Hệ thống \\ \cline{1-1} \cline{3-4} 
+        3 & & Tìm kiếm user & Admin \\ \cline{1-1} \cline{3-4} 
+        4 & & Hiển thị lịch sử tác động hệ thống của user được tìm kiếm hoặc toàn hệ thống & Admin \\ \hline
+        1 & Thay thế & Hiển thị lịch sử hệ thống của chính user đó & Người dùng \\ \hline
+    \end{tabular}
+    \label{tab:UCSLichSu}
+\end{table}
+
+Hình \ref{tab:UCDLichSu} và bảng \ref{tab:UCSLichSu} mô tả các use case và use case specification cho nhóm người dùng Lịch sử.
+\newpage
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{Images/USBaoCao.jpg}
+    \caption[Use Case Diagram Báo Cáo]{\bfseries \fontsize{12pt}{0pt}\selectfont Use Case Diagram Báo Cáo}
+    \label{tab:UCDBaoCao}  
+\end{figure}
+
+\begin{table}[H]
+    \centering    
+    \caption[Use Case Specification Báo Cáo]{\bfseries\fontsize{12pt}{0pt}\selectfont Use Case Specification Báo Cáo}
+    \begin{tabular}{|l|c|l|c|}
+        \hline
+        \textbf{STT} & \multicolumn{1}{l|}{Luồng sự kiện} & Hành động                         & \multicolumn{1}{l|}{Tác nhân}   \\ \hline
+        1            & \multirow{7}{*}{Chính}             & Truy cập vào Báo cáo              & \multicolumn{1}{l|}{Người dùng} \\ \cline{1-1} \cline{3-4} 
+        2            &                                    & Kiểm tra quyền                    & \multicolumn{1}{l|}{Hệ thống}   \\ \cline{1-1} \cline{3-4} 
+        3            &                                    & Báo cáo                           & \multirow{5}{*}{Admin}          \\ \cline{1-1} \cline{3-3}
+        4            &                                    & ·      Thống kê người dùng        &                                 \\ \cline{1-1} \cline{3-3}
+        5            &                                    & ·      Lịch sử truy cập           &                                 \\ \cline{1-1} \cline{3-3}
+        6            &                                    & ·      Lịch sử tắc động hệ thống  &                                 \\ \cline{1-1} \cline{3-3}
+        7            &                                    & ·      Thống kê tổng hợp          &                                 \\ \hline
+        1            & \multicolumn{1}{l|}{Thay thế}      & Thông báo không có quyền truy cập & \multicolumn{1}{l|}{Hệ thống}   \\ \hline
+        \end{tabular}
+    \label{tab:UCSBaoCao}
+\end{table}
+
+Hình \ref{tab:UCDBaoCao} và bảng \ref{tab:UCSBaoCao} mô tả các use case và use case specification cho nhóm người dùng Báo cáo.
+\newpage
 \subsection{Yêu cầu chức năng}
 Do kích thước báo cáo có hạn chúng em sẽ chỉ liệt kê các chức năng đã làm của hệ thống không đi sâu chi tiết vào phần đặc tả
 
 Hệ thống gồm nhiều chức năng khác nhau chúng em chia lại thành các nhóm chức năng riêng biệt như sau:
 
 \begin{table}[H]
-    \centering
-    
+    \centering    
     \caption[Nhóm chức năng Admin]{\bfseries\fontsize{12pt}{0pt}\selectfont Nhóm chức năng Admin}
     \begin{tabular}{|l|c|l|}
         \hline
@@ -284,7 +426,8 @@ Bảng \ref{tab:admin} mô tả nhóm chức năng Admin, người quản trị 
     3            &                                              & Đổi Mật Khẩu            \\ \cline{1-1} \cline{3-3} 
     4            &                                              & Đăng Xuất Khỏi Hệ Thống \\ \cline{1-1} \cline{3-3} 
     5            &                                              & Sửa Thông Tin Tài Khoản \\ \cline{1-1} \cline{3-3} 
-    6            &                                              & Xóa Tài Khoản           \\ \hline
+    6            &                                              & Đăng kí           \\ \cline{1-1} \cline{3-3} 
+    7            &                                              & Xóa Tài Khoản           \\ \hline
     \end{tabular}
     \label{tab:user}
 \end{table}
@@ -305,8 +448,7 @@ Bảng \ref{tab:user} mô tả nhóm chức năng User, người dùng thông th
     3            &                                              & Xóa Đơn Vị Hành Chính      \\ \cline{1-1} \cline{3-3} 
     4            &                                              & Quản Lý Định Nghĩa Quyền   \\ \cline{1-1} \cline{3-3} 
     5            &                                              & tìm kiếm nhóm hành chính   \\ \cline{1-1} \cline{3-3} 
-    6            &                                              & tìm kiếm đơn vị hành chính \\ \cline{1-1} \cline{3-3} 
-    7            &                                              & Tên Chức Năng              \\ \hline
+    6            &                                              & tìm kiếm đơn vị hành chính \\ \hline
     \end{tabular}
     \label{tab:coso}
 \end{table}
